@@ -1,9 +1,9 @@
 # 誰にも悪気は無かった話 — 貧困の連鎖を止めようとしたら、子どもの学力が下がりました。働き方から変えよう、地方から変えようとしたら、何も変わりませんでした。
 
-<figure>
+<p><figure>
   <img src="images/namie.jpg" />
-  <figcaption>浪江町。撮影:上杉周作</figcaption>
-</figure>
+  <figcaption align="center">浪江町。撮影:上杉周作</figcaption>
+</figure></p>
 
 — 生まれて初めて、解けない問題に直面したような感じでした。
 
