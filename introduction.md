@@ -2,7 +2,7 @@
 
 <p><figure>
   <img src="images/namie.jpg" />
-  <figcaption align="center">浪江町。撮影:上杉周作</figcaption>
+  <figcaption>浪江町。撮影:上杉周作</figcaption>
 </figure></p>
 
 — 生まれて初めて、解けない問題に直面したような感じでした。
