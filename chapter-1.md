@@ -98,7 +98,7 @@
 
 <p><figure>
   <img src="images/detroit.jpg" />
-  <figcaption>デトロイトにある廃墟。<a href="https://pixabay.com/en/slum-rundown-abandoned-urban-946786/">画像ソース</a> (CC0ライセンス)</figcaption>
+  <figcaption><a href="https://pixabay.com/en/slum-rundown-abandoned-urban-946786/">デトロイトにある廃墟</a> (CC0ライセンス)</figcaption>
 </figure></p>
 
 1980年代に入ると、ゲットー化した地域で今度はドラッグ売買が広がった。
