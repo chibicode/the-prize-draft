@@ -80,7 +80,7 @@
 
 答えを言うと、地図上の色は、その地域に黒人がどれだけ住んでいるかで決まる。緑の地区はもっとも黒人が少なく、青、黄色と続き、赤の地区には黒人が最も多く住んでいた。
 
-このような地図は、1930年代に全米で作られたのだが、なぜ必要だったのか。
+このような地図は、1930年代に全米で作られたのだが、なぜ必要だったのか。いったんサンフランシスコから離れて、アメリカ全体の話をする。
 
 アメリカでは1929年に大恐慌が起き、不動産市場が崩壊しかけていた。そこで連邦政府が介入して連邦住宅局(FHA)を作り、金融機関が不動産向けの融資をする支援をした。その際、政府は支援とセットで融資審査の[強化を求めた](http://www.bostonfairhousing.org/timeline/1934-FHA.html)。
 
@@ -92,14 +92,14 @@
 
 アメリカの大都市を訪れたことがある方は、[貧乏な層に黒人が多いこと、また黒人が多く住む地域が軒並み衰退していること](http://www.vox.com/2016/6/6/11852640/cartoon-poor-neighborhoods)に気づくかもしれない。多くの[識者](http://www.theatlantic.com/business/archive/2014/05/the-racist-housing-policy-that-made-your-neighborhood/371439/)はレッドラインこそがその元凶だと指摘し、「政府主導の経済的な差別政策だ」と批判している。むろん、[1964年の公民権法成立](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)まで、アメリカ政府は人種差別を黙認していたのだが。
 
-レッドラインは[1977年に完全に廃止されるまで](https://en.wikipedia.org/wiki/Community_Reinvestment_Act)約40年続いた。その間、全米で黒人と白人の資産格差が大きく広がり、赤の地域はゲットーになっていった。
+レッドラインは[1977年に完全に廃止されるまで](https://en.wikipedia.org/wiki/Community_Reinvestment_Act)30年以上続いた。その間、全米で黒人と白人の資産格差が大きく広がり、赤の地域はゲットーへと変貌した。
 
 <p><figure>
   <img src="images/detroit.jpg" />
   <figcaption>デトロイトにある廃墟。<a href="https://pixabay.com/en/slum-rundown-abandoned-urban-946786/">画像ソース</a> (CC0ライセンス)</figcaption>
 </figure></p>
 
-復活する暇も無く、1980年代に入ると、ゲットー化した地域で今度はドラッグ売買が広がった。
+1980年代に入ると、ゲットー化した地域で今度はドラッグ売買が広がった。
 
 アメリカでは、公立学校の予算は不動産価格に比例する税収で賄われているため、ゲットー化した地域の教育レベルは停滞していた。低学歴でも以前なら工場に雇用があったが、アメリカの製造業は[1979年をピークに衰退している](http://www.cnsnews.com/news/article/terence-p-jeffrey/7231000-lost-jobs-manufacturing-employment-down-37-1979-peak)。ゲットーの路上には無職の若者が溢れるようになった。
 
