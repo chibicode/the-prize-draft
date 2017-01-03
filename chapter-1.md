@@ -20,9 +20,9 @@
 
 もしぼくが今日、南相馬に生まれたとしたら、そのぼくが大学に進学するころには、市の約2人に1人が高齢者になっている。
 
-そんな街に、ぼくは希望を持てるのだろうか? 映画「君の名は。」に登場する、飛騨の田舎育ちの主人公・三葉のように、「もうこんな町いややー！こんな人生いややー！来世は東京のイケメン男子にしてくださーい！」と叫んだりしてしまうのだろうか。
+はたして、南相馬で育つぼくは希望を持てるのだろうか? 映画「君の名は。」に登場する、飛騨の田舎育ちの主人公・三葉のように、「もうこんな町いややー！こんな人生いややー！来世は東京のイケメン男子にしてくださーい！」と、ふと叫んだりしないだろうか。
 
-それとも、物心つくころには「人生なんてそんなもんさ」と思うようになるのだろうか?
+それとも、物心つくころには「人生なんてそんなもんさ」と思うようになるのだろうか。
 
 ## 相双神旗ディネード
 
@@ -105,17 +105,47 @@
 
 アメリカでは、公立学校の予算は不動産価格に比例する税収で賄われているため、ゲットー化した地域の教育レベルは停滞していた。低学歴でも以前なら工場に雇用があったが、アメリカの製造業は[1979年をピークに衰退している](http://www.cnsnews.com/news/article/terence-p-jeffrey/7231000-lost-jobs-manufacturing-employment-down-37-1979-peak)。ゲットーの路上には無職の若者が溢れるようになった。
 
-「もうこんな町いややー！こんな人生いややー！」と叫んだ黒人貧困層の若者にとって最後の希望は、ちょうどアメリカで流行りだしたドラッグ売買だった。ギャングに入団してコカインやヘロインを売れば一日何百ドルも稼げる。廃墟になった建物はアジトとして利用され、ギャングの銃撃戦で治安が悪化し、「赤の地域」は「血塗られた地域」になった。
+「もうこんな町いややー！こんな人生いややー！」と叫んだ黒人貧困層にとって最後の希望は、女性なら売春、男性ならアメリカ中で流行りだしたドラッグ売買だった。ギャングに入団してコカインやヘロインを売れば一日何百ドルも稼げる。廃墟になった建物はアジトとして利用され、ギャングの銃撃戦で治安が悪化し、「赤の地域」は「血塗られた地域」になった。
 
-物心つくころには「人生なんてそんなもんさ」と思ってギャングに入った若年男性は、この時期に次々と堕ちていく。1984年から1994年にかけて、[14歳から24歳の黒人男性が殺人で死ぬ確率は全米で倍増した](http://scholar.harvard.edu/files/fryer/files/fhlm_crack_cocaine_0.pdf)。
+1984年から1994年にかけて、[14歳から24歳の黒人男性が殺人で死ぬ確率は全米で倍増した](http://scholar.harvard.edu/files/fryer/files/fhlm_crack_cocaine_0.pdf)。
 
-## Test
+## イースト・パロアルト
 
 舞台をサンフランシスコ近郊に戻そう。シリコンバレーの中心・スタンフォード大学から車で15分の距離にある、イースト・パロアルト。ここも昔は「赤の地域」だった。
 
 <p><figure>
-  <img src="images/east-paloalto.jpg" />
-  <figcaption>写真: <a href="https://www.flickr.com/photos/bike/190157514">Richard Masoner</a> (CC-BY-SA)</figcaption>
+  <img src="images/east-paloalto.png" />
+  <figcaption><a href="https://goo.gl/maps/tmWTyNbyMd82">Google Maps</a></figcaption>
 </figure></p>
 
-イースト・パロアルトは[1992年に市内での殺人率が全米最高](http://articles.latimes.com/1993-01-05/local/me-833_1_east-palo-alto)となった。殺人発生率は[同時期の日本](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89)の175倍というとんでもない数字である。
+ギャングの抗争のせいで、イースト・パロアルトは[1992年に市内での殺人率が全米最高](http://articles.latimes.com/1993-01-05/local/me-833_1_east-palo-alto)となった。人口あたりの殺人発生率は[同時期の日本](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89)の「175倍」というとんでもない数字である。1992年といえば、シリコンバレー発祥のインテルが[世界最大の半導体企業になった年](http://www.intel.com/content/www/us/en/history/history-1992-annual-report.html)だ。シリコンバレーの隣にありながら、イースト・パロアルトはまさに別世界だった。
+
+取り締まりを強化した結果、イースト・パロアルトの犯罪は[翌年から減った](http://www.csmonitor.com/1994/0214/14081.html)。しかし、すでに堪忍袋の緒が切れてしまった黒人たちは[街を脱出してしまう](http://www.sfgate.com/news/article/TOWN-S-ETHNIC-MAKEUP-SHIFTS-Historically-Black-2982533.php)。空き家が増えたところに、今度はメキシコからの貧しい移民が大挙して[押しよせた](http://www.sfgate.com/news/article/TOWN-S-ETHNIC-MAKEUP-SHIFTS-Historically-Black-2982533.php)。
+
+ぼくは2010年にイースト・パロアルトから車で5分のところにアパートを借りた。その頃には住人の[3人に2人](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)はラテン系アメリカ人になっていて、治安は最悪ではないが、ほどほどに悪かった。
+
+## 若き天才ザッカーバーグ
+
+そのイースト・パロアルトに2012年、変化が訪れた。[同年に世界最大規模の上場](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook)を果たし、飛ぶ鳥を落とす勢いのフェイスブック社がイースト・パロアルトの真横に本社を移転したのである。
+
+<p><figure>
+  <img src="images/belle-haven.png" />
+  <figcaption><a href="https://goo.gl/maps/tmWTyNbyMd82">Google Maps</a></figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="images/facebook-me.jpg" />
+  <figcaption>Facebook本社前にて。</figcaption>
+</figure></p>
+
+南相馬に相双神旗ディネードが登場したように、イースト・パロアルトにもFacebookの社長、若き天才マーク・ザッカーバーグが登場した。
+
+<p><figure>
+  <img src="images/zuck.jpg" />
+  <figcaption><a href="http://newsroom.fb.com/media-gallery/executives/mark-zuckerberg/">Facebook社の公式サイトより</a>。</figcaption>
+</figure></p>
+
+
+compare and contrast: 震災で打撃、行政の黒歴史で打撃、それぞれヒーローが現れた。
+
+疑問 / cliffhanger: ディネードはこの動画をみてもわかるように演技は一回目。ザッカーバーグは2回目。
