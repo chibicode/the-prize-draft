@@ -98,7 +98,7 @@
 
 <p><figure>
   <img src="images/detroit.jpg" />
-  <figcaption><a href="https://pixabay.com/en/slum-rundown-abandoned-urban-946786/">デトロイトにある廃墟</a> (CC0ライセンス)</figcaption>
+  <figcaption><a href="https://pixabay.com/en/slum-rundown-abandoned-urban-946786/">デトロイトにある廃墟</a> (CC0)</figcaption>
 </figure></p>
 
 1980年代に入ると、ゲットー化した地域で今度はドラッグ売買が広がった。
@@ -107,8 +107,15 @@
 
 「もうこんな町いややー！こんな人生いややー！」と叫んだ黒人貧困層の若者にとって最後の希望は、ちょうどアメリカで流行りだしたドラッグ売買だった。ギャングに入団してコカインやヘロインを売れば一日何百ドルも稼げる。廃墟になった建物はアジトとして利用され、ギャングの銃撃戦で治安が悪化し、「赤の地域」は「血塗られた地域」になった。
 
-物心つくころには「人生なんてそんなもんさ」と思ってギャングに入った若者は、この時期に次々と殺されていく。1984年から1994年にかけて、[14歳から24歳の黒人男性が殺人で死ぬ確率は全米で倍増した](http://scholar.harvard.edu/files/fryer/files/fhlm_crack_cocaine_0.pdf)。
+物心つくころには「人生なんてそんなもんさ」と思ってギャングに入った若年男性は、この時期に次々と堕ちていく。1984年から1994年にかけて、[14歳から24歳の黒人男性が殺人で死ぬ確率は全米で倍増した](http://scholar.harvard.edu/files/fryer/files/fhlm_crack_cocaine_0.pdf)。
 
 ## Test
 
-舞台をサンフランシスコ近郊に戻すと、シリコンバレーの中心・スタンフォード大学から車で15分の距離にあるイースト・パロアルトも昔は「赤の地域」だった。
+舞台をサンフランシスコ近郊に戻そう。シリコンバレーの中心・スタンフォード大学から車で15分の距離にある、イースト・パロアルト。ここも昔は「赤の地域」だった。
+
+<p><figure>
+  <img src="images/east-paloalto.jpg" />
+  <figcaption>写真: <a href="https://www.flickr.com/photos/bike/190157514">Richard Masoner</a> (CC-BY-SA)</figcaption>
+</figure></p>
+
+イースト・パロアルトは[1992年に市内での殺人率が全米最高](http://articles.latimes.com/1993-01-05/local/me-833_1_east-palo-alto)となった。殺人発生率は[同時期の日本](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89)の175倍というとんでもない数字である。
