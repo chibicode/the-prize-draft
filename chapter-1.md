@@ -90,9 +90,9 @@
 
 日本と違い、アメリカでは基本的に住宅の価値は年々上がるため、家を持つことが資産を増やす最善手なのだが、多くの黒人はその機会を逃すはめになった。また、既にレッドライン地区に持ち家があった黒人も、街が衰退したせいで家の価値がなかなか上がらず苦しんだ。
 
-アメリカの大都市を訪れたことがある方は、[貧乏な層に黒人が多いこと、また黒人が多く住む地域が軒並み衰退していること](http://www.vox.com/2016/6/6/11852640/cartoon-poor-neighborhoods)に気づくかもしれない。多くの[識者](http://www.theatlantic.com/business/archive/2014/05/the-racist-housing-policy-that-made-your-neighborhood/371439/)はレッドラインこそがその元凶だと指摘し、「政府主導の経済的な差別政策だ」と批判している。
+アメリカの大都市を訪れたことがある方は、[貧乏な層に黒人が多いこと、また黒人が多く住む地域が軒並み衰退していること](http://www.vox.com/2016/6/6/11852640/cartoon-poor-neighborhoods)に気づくかもしれない。多くの[識者](http://www.theatlantic.com/business/archive/2014/05/the-racist-housing-policy-that-made-your-neighborhood/371439/)はレッドラインこそがその元凶だと指摘し、「政府主導の経済的な差別政策だ」と批判している。むろん、[1964年の公民権法成立](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)まで、アメリカ政府は人種差別を黙認していたのだが。
 
-レッドラインは[1977年に廃止されるまで](https://en.wikipedia.org/wiki/Community_Reinvestment_Act)約40年続き、全米で黒人と白人の資産格差が大きく広がり、赤の地域はゲットー化した。
+レッドラインは[1977年に完全に廃止されるまで](https://en.wikipedia.org/wiki/Community_Reinvestment_Act)約40年続いた。その間、全米で黒人と白人の資産格差が大きく広がり、赤の地域はゲットーになっていった。
 
 <p><figure>
   <img src="images/detroit.jpg" />
