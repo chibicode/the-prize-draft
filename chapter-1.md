@@ -118,20 +118,17 @@
   <figcaption><a href="https://goo.gl/maps/tmWTyNbyMd82">Google Maps</a></figcaption>
 </figure></p>
 
-ギャングの抗争のせいで、イースト・パロアルトは[1992年に市内での殺人率が全米最高](http://articles.latimes.com/1993-01-05/local/me-833_1_east-palo-alto)となった。人口あたりの殺人発生率は[同時期の日本](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89)の「175倍」というとんでもない数字である。1992年といえば、シリコンバレー発祥のインテルが[世界最大の半導体企業になった年](http://www.intel.com/content/www/us/en/history/history-1992-annual-report.html)だ。シリコンバレーの隣にありながら、イースト・パロアルトはまさに別世界だった。
+ギャング抗争のせいで、イースト・パロアルトは[1992年に市内での殺人率が全米最高](http://articles.latimes.com/1993-01-05/local/me-833_1_east-palo-alto)となった。人口あたりの殺人発生率は[同時期の日本](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89)の「175倍」というとんでもない数字である。
+
+1992年といえば、シリコンバレー発祥のインテルが[世界最大の半導体企業になった年](http://www.intel.com/content/www/us/en/history/history-1992-annual-report.html)だ。シリコンバレーの隣にありながら、イースト・パロアルトはまさに別世界だった。
 
 取り締まりを強化した結果、イースト・パロアルトの犯罪は[翌年から減った](http://www.csmonitor.com/1994/0214/14081.html)。しかし、すでに堪忍袋の緒が切れてしまった黒人たちは[街を脱出してしまう](http://www.sfgate.com/news/article/TOWN-S-ETHNIC-MAKEUP-SHIFTS-Historically-Black-2982533.php)。空き家が増えたところに、今度はメキシコからの貧しい移民が大挙して[押しよせた](http://www.sfgate.com/news/article/TOWN-S-ETHNIC-MAKEUP-SHIFTS-Historically-Black-2982533.php)。
 
-ぼくは2010年にイースト・パロアルトから車で5分のところにアパートを借りた。その頃には住人の[3人に2人](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)はラテン系アメリカ人になっていて、治安は最悪ではないが、ほどほどに悪かった。
+ぼくは2010年にシリコンバレーに越してきて、イースト・パロアルトから車で5分のところにアパートを借りた。その頃にはイースト・パロアルトの住人の[3人に2人](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)はラテン系アメリカ人になっていて、治安もそこそこ悪かった。
 
 ## 若き天才ザッカーバーグ
 
 そのイースト・パロアルトに2012年、変化が訪れた。[同年に世界最大規模の上場](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook)を果たし、飛ぶ鳥を落とす勢いのフェイスブック社がイースト・パロアルトの真横に本社を移転したのである。
-
-<p><figure>
-  <img src="images/belle-haven.png" />
-  <figcaption><a href="https://goo.gl/maps/tmWTyNbyMd82">Google Maps</a></figcaption>
-</figure></p>
 
 <p><figure>
   <img src="images/facebook-me.jpg" />
@@ -145,6 +142,15 @@
   <figcaption><a href="http://newsroom.fb.com/media-gallery/executives/mark-zuckerberg/">Facebook社の公式サイトより</a>。</figcaption>
 </figure></p>
 
+フェイスブック社がイースト・パロアルトにやってきた2年後、ザッカーバーグは[1億2000ドル](http://www.mercurynews.com/2014/05/29/mark-zuckerberg-and-dr-priscilla-chan-why-were-committing-120-million-to-bay-area-schools/)をイースト・パロアルトを含む近郊の貧しい学区に寄付することを決定。[最初の100万ドル](https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/)はイースト・パロアルトの学生たちにタブレット端末を配布するのに使われたりと、寄付金は学区のニーズを汲む形で運用されている。
+
+また、心や身体の健康問題が深刻なイースト・パロアルトの住民のために、新しい総合クリニックができたのだが、そこにもザッカーバーグは妻のプリシラと[500万ドルを寄付した](http://www.paloaltoonline.com/news/2014/01/23/zuckerberg-wife-give-5-million-to-build-east-palo-alto-health-center)。さらに二人は、イースト・パロアルトに低所得者層の児童向けの学校「The Primary School」を2016年に[設立](http://forbesjapan.com/articles/detail/10743)。3歳から入学でき、学費は無料で保育・医療サービスも提供する。
+
+イースロ・パロアルトに届いたのはカネやハコモノだけではない。フェイスブックは毎年夏、イースト・パロアルトの高校生を何人かインターンで雇っている。さらに、ザッカーバーグは2013年、イースト・パロアルトの中学生に10週間、[週一で起業についての授業を教えた](https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/)。中学生たちはビジネスプランとさまざまな製品を作り、作った製品をフェイスブック本社で販売した。なかでも特に優秀だった4人は、高校に進学してもザッカーバーグのメンタリングを受け続けたという。
+
+ザッカーバーグは裕福な出自で、イースト・パロアルトの子たちとは共通点が少ない。しかし、世界を代表する起業家が直接指導してくれるのなら、みな彼の話を聞きたいと思うだろう。南相馬の子たちがディネードの言葉に耳を傾けたように。
+
+## ディネードとザッカーバーグの違い
 
 compare and contrast: 震災で打撃、行政の黒歴史で打撃、それぞれヒーローが現れた。
 
