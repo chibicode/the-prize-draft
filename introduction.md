@@ -139,7 +139,7 @@
 
 <p><figure>
   <img src="images/zuck.jpg" />
-  <figcaption><a href="http://newsroom.fb.com/media-gallery/executives/mark-zuckerberg/">Facebook社の公式サイトより</a>。</figcaption>
+  <figcaption><a href="http://newsroom.fb.com/media-gallery/executives/mark-zuckerberg/">Facebookのコーポレートサイトより</a>。</figcaption>
 </figure></p>
 
 ザッカーバーグは、瞬く間に地域のヒーローになった。
@@ -176,6 +176,11 @@
 どういうことか。まず、映画でディネードを演じたのは高野伸博さんという地元の男性で、震災時は原発20キロ圏内に自宅があった。ディネードの特集を組んだ「めざましテレビ」によると、この高野さんはそれまで演技経験ゼロだったが、ルックスの良さを買われて主演になったという。つまり、ディネードはヒーロー童貞だったのだ。
 
 いっぽうザッカーバーグは、イースト・パロアルトにやってくる前にヒーロー童貞を捨てていた。
+
+<p><figure>
+  <img src="images/zuck2.jpg" />
+  <figcaption><a href="http://newsroom.fb.com/media-gallery/events/qa-with-mark-zuckerberg-at-facebook-headquarters/">Facebookのコーポレートサイトより</a>。</figcaption>
+</figure></p>
 
 彼は、ヒーロー初体験をニューヨーク郊外にあるニュワークという街で済ませた。ニュワークはニュージャージー州最大の都市でありながら、以前は[街全体](http://www.pbs.org/pov/revolution67/background/)がレッドラインによって「赤の地域」に指定され、全米を代表する貧困地区として悪名高い。
 
