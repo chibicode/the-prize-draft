@@ -192,12 +192,10 @@ Facebookの快進撃で財をなし、かねてから教育分野で慈善事業
 
 実際はそうならなかった。
 
-むしろ、ザッカーバーグのヒーロー初体験は、彼のこれまでの輝かしい経歴において最大級の失敗、最大級の黒歴史となった。その黒歴史をジャーナリストのデール・ルサコフ氏が書き綴ったノンフィクション「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」は、ニューヨークタイムズのベストセラーに選ばれた。
+むしろ、ザッカーバーグのニュワークへの寄付は、彼のこれまでの輝かしい経歴において最大級の失敗、そして黒歴史となった。ジャーナリストのデール・ルサコフ氏がその黒歴史を書き綴ったノンフィクション「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」が、ニューヨークタイムズのベストセラーに選ばれるほどだった。
 
-ザッカーバーグ自身も、その後イースト・パロアルトで慈善事業を行った際、「今回は、ニュワークで自分が進んだ方向には進まないようにしたい」と[インタビューで反省した](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)くらいだった。
+ザッカーバーグ自身も、その後イースト・パロアルトで慈善事業を行った際、「今回は、ニュワークで自分が進んだ方向には進まないようにしたい」と[インタビューで反省した](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)。
 
-いったい、ニュワークで何が起きたのか。
-
-それを、この記事で紐解いていこうと思う。
+いったい、ニュワークで何が起きたのか。それを、この記事で紐解いていこうと思う。
 
 「ザッカーバーグの黒歴史を知って何になるんだ?」と思う日本のみなさまも、騙されたと思って読んでほしい。きっと、これからの日本を考えるヒントが見つかると思うから。
