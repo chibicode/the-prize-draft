@@ -18,6 +18,6 @@
 <p><figure>
   <img src="images/social-network.jpg" />
   <figcaption>
-    デヴィッド・フィンチャー(監督)。ソニー・ピクチャーズエンタテインメント(2011/1/15日本公開)。
+    デヴィッド・フィンチャー(監督)。ソニー・ピクチャーズエンタテインメント(2011/1/15日本公開)。([Amazonリンク](http://amzn.to/2ivUSBZ))
   </figcaption>
 </figure></p>
