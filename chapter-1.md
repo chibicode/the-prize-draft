@@ -1,4 +1,4 @@
-# 第一章:「衰退・ヒーロー・黒歴史」
+# 第一章: ヒーロー童貞
 
 — 震災後にここに戻ってきたときは、生まれて初めて、解けない問題に直面したような感じでした。
 
@@ -80,10 +80,9 @@
 2000年代に入ると、イーストパロアルトの治安はましになったが、シリコンバレーの他の地域と比べるとまだまだ悪かった。
 
 <p><figure>
-  <a href="https://www.amazon.co.jp/5/dp/4822248372/ref=as_li_ss_il?_encoding=UTF8&qid=&sr=&linkCode=li3&tag=chibicode-22&linkId=b3ec0676a46954ad074b10863f1d3817" target="_blank"><img border="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4822248372&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=chibicode-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=chibicode-22&l=li3&o=9&a=4822248372" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  <figcaption><a href="http://amzn.to/2iTMQUx">Amazonより</a>。</figcaption>
+  <img src="images/the-facebook-effect.jpg" />
+  <figcaption>デビッド・カークパトリック(著)、小林弘人(解説)、滑川海彦 (翻訳)、高橋信夫(翻訳)。日経BP社出版(2011/1/13)。 (<a href="http://amzn.to/2iTMQUx">Amazonリンク</a>)</figcaption>
 </figure></p>
-
 
 2005年の春のこと。フェイスブックの創業者、21歳のマーク・ザッカーバーグは運転中、イースト・パロアルトのガソリンスタンドに寄った。セルフサービスで給油していると、酔っ払いがやってきて彼に[銃を突きつけた](https://goo.gl/RLu2aP)。ザッカーバーグはとっさの判断で車に飛び乗り、そのまま運転して難を逃れたという。
 
@@ -210,8 +209,8 @@
 
 結論から言うと、ザッカーバーグのニュワークへの寄付は大失敗に終わった。
 
-ザッカーバーグのヒーロー初体験は、彼のこれまでの輝かしい経歴において最大級の黒歴史となった。その炎上ぶりを取材した本・「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」は、ニューヨークタイムズのベストセラーに選ばれた。ザッカーバーグ本人も、イースト・パロアルトで慈善事業を行った際、「ニュワークで犯した過ちは繰り返さないようにする」と[インタビューで反省している](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)。
+ザッカーバーグのヒーロー初体験は、彼のこれまでの輝かしい経歴において最大級の黒歴史となった。その炎上劇を取材した本・「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」は、ニューヨークタイムズのベストセラーに選ばれた。ザッカーバーグ本人もイースト・パロアルトの慈善事業を発表したとき、「ニュワークで犯した過ちは繰り返さないようにする」と[インタビューで反省している](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)。
 
 いったい、ニュワークでどんな失敗が起きたのか。それを、この記事で紐解いていこうと思う。
 
-「ザッカーバーグの黒歴史を知って何になるんだ」と思う日本のみなさまも、騙されたと思って読んでほしい。きっと、これからの日本を考えるヒントが見つかると思うから。
+「ザッカーバーグの黒歴史を知って何になるんだ」と思う日本のみなさまも、騙されたと思って読んでほしい。これからの日本を考えるヒントが見つかるかもしれないから。
