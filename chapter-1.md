@@ -80,7 +80,7 @@
 2000年代に入ると、イーストパロアルトの治安はましになったが、シリコンバレーの他の地域と比べるとまだまだ悪かった。
 
 <p><figure>
-  <img src="images/the-facebook-effect.jpg" />
+  <a href="http://amzn.to/2iTMQUx"><img src="images/the-facebook-effect.jpg" /></a>
   <figcaption>デビッド・カークパトリック(著)、小林弘人(解説)、滑川海彦 (翻訳)、高橋信夫(翻訳)。日経BP社出版(2011/1/13)。 (<a href="http://amzn.to/2iTMQUx">Amazonリンク</a>)</figcaption>
 </figure></p>
 
@@ -209,7 +209,7 @@
 
 結論から言うと、ザッカーバーグのニュワークへの寄付は大失敗に終わった。
 
-ザッカーバーグのヒーロー初体験は、彼のこれまでの輝かしい経歴において最大級の黒歴史となった。その炎上劇を取材した本・「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」は、ニューヨークタイムズのベストセラーに選ばれた。ザッカーバーグ本人もイースト・パロアルトの慈善事業を発表したとき、「ニュワークで犯した過ちは繰り返さないようにする」と[インタビューで反省している](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)。
+ザッカーバーグのヒーロー初体験は、彼のこれまでの輝かしい経歴において最大級の黒歴史となった。その炎上劇を取材した本・「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」は、2015年にニューヨークタイムズのベストセラーに選ばれた。ザッカーバーグ本人もイースト・パロアルトの慈善事業を発表したとき、「ニュワークで犯した過ちは繰り返さないようにする」と[インタビューで反省している](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)。
 
 いったい、ニュワークでどんな失敗が起きたのか。それを、この記事で紐解いていこうと思う。
 
