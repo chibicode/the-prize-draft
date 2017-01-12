@@ -1,15 +1,15 @@
-# 第二章: ?
+# 第二章: The Prize
 
 ここからは、さきほど少し紹介した本「[The Prize](http://amzn.to/2idlf1u)」の内容を引用しながら話を進める。脚注はすべて[このページ](https://goo.gl/B7k68n)にまとめていて、文中で引用した部分にはそれぞれリンクを貼っている。
 
 <p><figure>
-  <a href="http://amzn.to/2idlf1u"><img src="images/the-prize.jpg" /></a>
+  <a href="http://amzn.to/2idlf1u"><img src="images/og-square-1200.jpg" /></a>
   <figcaption>
     Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. Print. (<a href="http://amzn.to/2idlf1u">Amazonリンク</a>)
   </figcaption>
 </figure></p>
 
-繰り返すが、「[The Prize](http://amzn.to/2idlf1u)」は、フェイスブック代表のマーク・ザッカーバーグが、ニュワークへ寄贈した1億ドルの行方を追ったノンフィクションだ。2015年にニューヨークタイムズのベストセラーに選ばれている。著者はデール・ルサコフ氏。ワシントン・ポスト紙で28年働いた敏腕記者である。
+繰り返すが、「[The Prize](http://amzn.to/2idlf1u)」は、フェイスブック代表のマーク・ザッカーバーグが、ニュワーク市の貧困を解決すべく、2010年に寄贈した1億ドルの行方を追ったノンフィクションだ。2015年にニューヨークタイムズのベストセラーに選ばれている。著者はデール・ルサコフ氏。ワシントン・ポスト紙で28年働いた敏腕記者である。
 
 「The Prize」は邦訳されていないが、日本人にも興味深く思える内容だと思う。
 
@@ -63,12 +63,14 @@
 
 — それは厳しい。9月24日はドキュメンタリー映画「スーパーマンを待ちながら」が公開される日でもあります。これは教育改革がテーマで、あなたの寄付の話と相性が良い。我々としては、この映画のプロモーションに乗っかりたい。そうやって話題性を作れば、他の慈善家もニュワークにこぞって寄付してくれるはず。だから、発表を遅らせることはできません。<br>
 — では、わたしが匿名で1億ドルを寄付するというのは?<br>
-— それも却下。ザッカーバーグさん、あなたは今や時の人だ。そのカリスマ性が我々には必要なんです。あなたが先頭を切らないと、他の慈善家も続かない。
+— それも却下。ザッカーバーグさん、あなたは今や時の人だ。そのカリスマ性が我々には必要なんです。あなたが先陣を切らないで、他に誰が続くんですか。
 
-ザッカーバーグは[白旗を揚げるほかなかった](https://goo.gl/B7k68n#dHUZQvLn)。
+ザッカーバーグは[白旗を揚げた](https://goo.gl/B7k68n#dHUZQvLn)。
 
-— 仕方ない、予定通りにやりましょう。
+— 仕方ない。予定通り、9月24日に発表しましょう。
 
 ## Test
 
-First talk about how Zuck ende up wanting to do philansolophy. Then talk about how he met Booker.
+そもそも、ザッカーバーグはなぜ、ニュワークに1億ドルを寄付することになったのか?それには、彼の妻のプリシラ・チャンさんの[影響があった](https://goo.gl/B7k68n#UZwcT1mh)。
+
+<div class="fb-post" data-href="https://www.facebook.com/4/posts/10100387011762121/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/4/posts/10100387011762121/" class="fb-xfbml-parse-ignore">(ザッカーバーグの結婚式の写真)</blockquote></div>
