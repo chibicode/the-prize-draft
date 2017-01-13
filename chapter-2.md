@@ -76,16 +76,28 @@
 <p><figure>
   <img src="the-prize-draft-images/zuck-priscilla.jpg" />
   <figcaption>
-    左がチャン。By Lukasz Porwol [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AMark_Zuckerberg_in_Prague_2013.jpg">via Wikimedia Commons</a>
+    チャン(左)とザッカーバーグ(右)。By Lukasz Porwol [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AMark_Zuckerberg_in_Prague_2013.jpg">via Wikimedia Commons</a>
   </figcaption>
 </figure></p>
 
-チャンの両親は、アメリカにボートで辿り着いたベトナム戦争の難民だった。父親は中華レストランを経営し、母親は仕事を掛け持ち、一日18時間働いた両親の代わりに、祖父母がチャンと二人の妹の[面倒を見た](https://goo.gl/B7k68n#UZwcT1mh)。チャンは普通の公立校に通ったが、先生たちが彼女の才能を見抜き、応援し、ハーバードに彼女を送りだした。チャンはそこで、ザッカーバーグに出会った。
+チャンの両親は、アメリカにボートで辿り着いたベトナム戦争の難民だった。父親は中華レストランを経営し、母親は仕事を掛け持ち、一日18時間働いた両親の代わりに、祖父母がチャンと二人の妹の[面倒を見た](https://goo.gl/B7k68n#UZwcT1mh)。普通の公立校に通ったチャンは猛勉強し、彼女の才能を見抜いた先生たちの薦めで大学進学を決意。やがて彼女はハーバードに合格し、そこで将来の夫に出会った。
 
-医者を志したチャンは、ハーバード南にある貧困地区で4年間、恵まれない子たちのためにボランティアをしていた。医学大学院に入学した後も、サンフランシスコのヒスパニック系移民向けのクリニックで[働いた](https://goo.gl/B7k68n#UZwcT1mh)。
+医者を志したチャンは、ハーバードの南にある貧困地区で4年間、恵まれない子たちのためにボランティアをしていた。医学大学院に入学した後も、サンフランシスコのヒスパニック系移民向けのクリニックで[働いた](https://goo.gl/B7k68n#UZwcT1mh)。
 
 — ボストンの貧しい子たちといると[思うんです](https://goo.gl/B7k68n#UZwcT1mh)。この子たちは私と一緒だ。諦めずに助けていれば、どこかで私みたいに幸運を掴めるかもしれないって。
 
-The difference between Zuck and Chan...
+そんなチャンに心を動かされたザッカーバーグは、フェイスブック社の経営で多忙を極めていたが、子どもたちのために慈善活動をすることに乗り気になった。
 
-<div class="fb-post" data-href="https://www.facebook.com/4/posts/10100387011762121/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/4/posts/10100387011762121/" class="fb-xfbml-parse-ignore">(ザッカーバーグの結婚式の写真)</blockquote></div>
+ただ、ザッカーバーグの動機は、チャンのように「子どもたちの可能性を広げたい」といった純粋なものではなかった。根っからの起業家の彼は、チャンの言葉を「仕組みの問題」として聞いていた。証拠に、ザッカーバーグはチャンとの共同インタビューで[こう語っている](https://goo.gl/B7k68n#UZwcT1mh)。
+
+— プリシラ(チャン)は、ハーバードを卒業してすぐの一年間、医学大学院に入るまで、シリコンバレーで学校の先生をしていました。まわりは「ハーバードの卒業生が学校の先生をやるなんて」と冷ややかだった。しかしわたしは、学校の先生という職業は、それよりも高給な他の職業よりも社会にとって大切だと思う。経済的な観点から見ると、これはとても非効率です。学校の先生の社会的地位を上げるには、どんな仕組みを変える必要があるのか、どんな障壁を取り除く必要があるのか、慈善事業を通じて考えたい。
+
+チャンは苦笑いしながら、
+
+— マーク(ザッカーバーグ)はわたしと違うんです。わたしはただ、助けた子どもたちが将来どんな道を歩むのか、想像をふくらませるのが楽しいだけで・・・
+
+<div class="fb-post" data-href="https://www.facebook.com/4/posts/10100387011762121/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/4/posts/10100387011762121/" class="fb-xfbml-parse-ignore">(ザッカーバーグとチャンの結婚式の写真。)</blockquote></div>
+
+### Test
+
+no time for chan as well
