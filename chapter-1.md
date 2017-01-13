@@ -1,11 +1,11 @@
-# 第一章: ヒーロー童貞
+## 第一章: ヒーロー童貞
 
 — 震災後にここに戻ってきたときは、生まれて初めて、解けない問題に直面したような感じでした。
 
 原発10キロ圏内にある福島県・浪江町を案内してくれた友人は、車を走らせながらそう言った。震災から5年半が経った今でも、津波の爪痕がまざまざと残る。すれ違うのは工事のトラックばかり。ぼくが訪れた2016年11月の時点では、いまだに居住禁止のゴーストタウンとなっている。
 
 <p><figure>
-  <img src="images/namie.jpg" />
+  <img src="the-prize-draft-images/namie.jpg" />
   <figcaption>浪江町。撮影:上杉周作。以後、ぼくが著作権を持っている画像はその旨の表記を省きます。</figcaption>
 </figure></p>
 
@@ -28,7 +28,7 @@
 
 それとも、映画「シン・ゴジラ」に登場する主人公・矢口のように、「諦めず、最後までこの町を見捨てずにやろう」と決意するのだろうか。
 
-## 相双神旗ディネード
+### 相双神旗ディネード
 
 そんな南相馬で育つ子どもたちに、希望を届けるヒーローがいる。
 
@@ -37,7 +37,7 @@
 このフロンティア南相馬は、ご当地ヒーロー「相双神旗ディネード」の立ち上げも支援した。ディネードは南相馬近郊を守る正義の味方で、ヒーローショーで悪と戦いながら、子どもたちを「震災や放射能に負けるんでねーど(福島弁)」と鼓舞している。実写映画化もされ、制作の様子はめざましテレビが全国に放映した。
 
 <p><figure>
-  <img src="images/denade.gif" />
+  <img src="the-prize-draft-images/denade.gif" />
   <figcaption>「相双神旗ディネード」の<a href="https://www.youtube.com/watch?v=ooExRI4NSco">予告動画より</a>。<a href="images/denade-permission.png">転載の許可も頂いた</a>。</figcaption>
 </figure></p>
 
@@ -52,7 +52,7 @@
 — たとえば「多様性を尊重しよう、相手の立場を理解しよう」って大人が口酸っぱく言うよりも、ディネードが悪役にたいして「きみたちが怒る理由も分かるよ」と言うほうが、子どもにとってはよっぽど説得力があるんですよ。
 
 <p><figure>
-  <img src="images/denade.jpg" />
+  <img src="the-prize-draft-images/denade.jpg" />
   <figcaption>ぼくとディネード。</figcaption>
 </figure></p>
 
@@ -62,12 +62,12 @@
 
 「女性のリーダーは当たり前」と思うようになるきっかけは人それぞれだが、ぼくにとってはカクレンジャーがそうだった。ヒーローには町を守る力だけでなく、子どもの当たり前をつくる力があるのだ。
 
-## イースト・パロアルト
+### イースト・パロアルト
 
 ところでぼくは、アメリカ西海岸・カリフォルニア州のシリコンバレーに2010年から住んでいる。2014年までは、シリコンバレーの中心付近にある、イースト・パロアルト市の近くにアパートを借りていた。
 
 <p><figure>
-  <img src="images/east-paloalto.png" />
+  <img src="the-prize-draft-images/east-paloalto.png" />
   <figcaption><a href="https://goo.gl/maps/tmWTyNbyMd82">Google Maps</a></figcaption>
 </figure></p>
 
@@ -80,7 +80,7 @@
 2000年代に入ると、イーストパロアルトの治安はましになったが、シリコンバレーの他の地域と比べるとまだまだ悪かった。
 
 <p><figure>
-  <a href="http://amzn.to/2iTMQUx"><img src="images/the-facebook-effect.jpg" /></a>
+  <a href="http://amzn.to/2iTMQUx"><img src="the-prize-draft-images/the-facebook-effect.jpg" /></a>
   <figcaption>デビッド・カークパトリック(著)、小林弘人(解説)、滑川海彦 (翻訳)、高橋信夫(翻訳)。日経BP社出版(2011/1/13)。 (<a href="http://amzn.to/2iTMQUx">Amazonリンク</a>)</figcaption>
 </figure></p>
 
@@ -90,12 +90,12 @@
 
 しかし、イースト・パロアルトはなぜこんな状況になったのか。その答えは、「レッドライン」というアメリカの悪しき慣習にある。
 
-## レッドラインの呪い
+### レッドラインの呪い
 
 まずはこの地図を見てほしい。
 
 <p><figure>
-  <img src="images/fukushima-namie-map.png" />
+  <img src="the-prize-draft-images/fukushima-namie-map.png" />
   <figcaption>画像ソース: <a href="http://www.town.namie.fukushima.jp/soshiki/2/namie-factsheet.html">浪江町</a> / <a href="http://www.pref.fukushima.lg.jp/site/portal/list271-840.html">福島県</a></figcaption>
 </figure></p>
 
@@ -104,7 +104,7 @@
 次にこの地図を見てほしい。
 
 <p><figure>
-  <img src="images/sf-redline.jpg" />
+  <img src="the-prize-draft-images/sf-redline.jpg" />
   <figcaption>画像ソース: <a href="http://salt.umd.edu/T-RACES/mosaic.html">Redlining Archives of California's Exclusionary Spaces</a></figcaption>
 </figure></p>
 
@@ -131,7 +131,7 @@
 レッドラインは[1964年の公民権法成立](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)を経て、[1977年に完全に廃止されるまで](https://en.wikipedia.org/wiki/Community_Reinvestment_Act)30年以上続いた。その間、全米で黒人と白人の資産格差が大きく広がり、赤の地域はゲットーへと変貌した。
 
 <p><figure>
-  <img src="images/detroit.jpg" />
+  <img src="the-prize-draft-images/detroit.jpg" />
   <figcaption><a href="https://pixabay.com/en/slum-rundown-abandoned-urban-946786/">デトロイトにある廃墟</a> (CC0)</figcaption>
 </figure></p>
 
@@ -143,14 +143,14 @@
 
 男性は、ギャングに入団してコカインやヘロインを売れば一日何百ドルも稼げる。廃墟になった建物はアジトとして利用され、ギャングの銃撃戦で治安が悪化し、「赤の地域」は「血塗られた地域」になった。1984年から1994年にかけて、[14歳から24歳の黒人男性が殺人で死ぬ確率は全米で倍増した](http://scholar.harvard.edu/files/fryer/files/fhlm_crack_cocaine_0.pdf)。
 
-## マーク・ザッカーバーグ
+### マーク・ザッカーバーグ
 
 先ほどの話に戻ると、シリコンバレーにあるイースト・パロアルトも「赤の地区」だった。90年代、あまりの治安の悪さに黒人の多くはここを脱出したが、代わりにメキシコからの移民がイースト・パロアルトに住み着いた。しかし、住民が貧しいことに変わりはない。
 
 そのイースト・パロアルトに2012年、変化が訪れた。
 
 <p><figure>
-  <img src="images/facebook-me.jpg" />
+  <img src="the-prize-draft-images/facebook-me.jpg" />
   <figcaption>Facebook本社前にて。</figcaption>
 </figure></p>
 
@@ -159,7 +159,7 @@
 南相馬に相双神旗ディネードがやって来たように、イースト・パロアルトにもマーク・ザッカーバーグがやって来た。
 
 <p><figure>
-  <img src="images/zuck.jpg" />
+  <img src="the-prize-draft-images/zuck.jpg" />
   <figcaption><a href="http://newsroom.fb.com/media-gallery/executives/mark-zuckerberg/">Facebookのコーポレートサイトより</a>。</figcaption>
 </figure></p>
 
@@ -175,14 +175,14 @@
 
 ザッカーバーグは裕福な家の出身で、イースト・パロアルトの子たちとは共通点が少ない。しかし、世界を代表する起業家が直接指導してくれるのなら、みな彼の話を聞きたいと思うだろう。南相馬の子たちがディネードの言葉に耳を傾けたように。
 
-## ディネードとザッカーバーグの違い
+### ディネードとザッカーバーグの違い
 
 震災が生んだ原発事故に苦しんだ南相馬にはディネード、差別政策が生んだ貧困に苦しんだイースト・パロアルトにはザッカーバーグというヒーローが現れた。
 
 しかし、二人には決定的な違いがある。それは、ディネードはヒーローになるのが初体験だったが、ザッカーバーグはヒーローになるのがイースト・パロアルトで二度目だったということだ。
 
 <p><figure>
-  <img src="images/takano.jpg" />
+  <img src="the-prize-draft-images/takano.jpg" />
   <figcaption>ディネード役の高野伸博さん。「相双神旗ディネード」の<a href="https://www.youtube.com/watch?v=ooExRI4NSco">予告動画より</a>。</figcaption>
 </figure></p>
 
@@ -191,7 +191,7 @@
 つまり、ディネードになった高野さんは、それまで「ヒーロー童貞」だったのだ。
 
 <p><figure>
-  <img src="images/zuck2.jpg" />
+  <img src="the-prize-draft-images/zuck2.jpg" />
   <figcaption><a href="http://newsroom.fb.com/media-gallery/events/qa-with-mark-zuckerberg-at-facebook-headquarters/">Facebookのコーポレートサイトより</a>。</figcaption>
 </figure></p>
 
@@ -205,7 +205,7 @@
 
 では、この1億ドルでニュワークはどう変わったのか。貧困にあえぐ子どもたちは、果たして希望を抱けるようになったのだろうか。
 
-## ザッカーバーグの黒歴史
+### ザッカーバーグの黒歴史
 
 結論から言うと、ザッカーバーグのニュワークへの寄付は大失敗に終わった。
 

@@ -1,9 +1,9 @@
-# 第二章: The Prize
+## 第二章: The Prize
 
 ここからは、さきほど少し紹介した本「[The Prize](http://amzn.to/2idlf1u)」の内容を引用しながら話を進める。脚注はすべて[このページ](https://goo.gl/B7k68n)にまとめていて、文中で引用した部分にはそれぞれリンクを貼っている。
 
 <p><figure>
-  <a href="http://amzn.to/2idlf1u"><img src="images/og-square-1200.jpg" /></a>
+  <a href="http://amzn.to/2idlf1u"><img src="the-prize-draft-images/og-square-1200.jpg" /></a>
   <figcaption>
     Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. Print. (<a href="http://amzn.to/2idlf1u">Amazonリンク</a>)
   </figcaption>
@@ -13,14 +13,14 @@
 
 「The Prize」は邦訳されていないが、日本人にも興味深く思える内容だと思う。
 
-## ソーシャル・ネットワーク
+### ソーシャル・ネットワーク
 
 ザッカーバーグの過去を語る前に、下の図を見てほしい。日本で「フェイスブック」とGoogle検索された数の推移である。
 
 2011年1月に検索数が急に増えたのだが、これはなぜだろう?
 
 <p><figure>
-  <img src="images/fb-search-trends.png" />
+  <img src="the-prize-draft-images/fb-search-trends.png" />
   <figcaption>
     ソース: [Google Trends](https://www.google.com/trends/explore?date=all&geo=JP&q=%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%96%E3%83%83%E3%82%AF)
   </figcaption>
@@ -31,7 +31,7 @@
 当時はマイナーだったフェイスブックの検索数が2011年1月に増えたのはなぜか。最も影響を与えたと思われる原因は、その月にフェイブスックの誕生秘話を描いた映画「ソーシャル・ネットワーク」が公開されたことだ。
 
 <p><figure>
-  <img src="images/social-network.jpg" />
+  <img src="the-prize-draft-images/social-network.jpg" />
   <figcaption>
     デヴィッド・フィンチャー(監督)。ソニー・ピクチャーズエンタテインメント(2011/1/15日本公開)。([Amazonリンク](http://amzn.to/2ivUSBZ))
   </figcaption>
@@ -41,7 +41,7 @@
 
 日本展開を目論んでいたフェイスブックにとって、「ソーシャル・ネットワーク」は絶好の追い風になったのだ。
 
-## ザッカーバーグの不都合
+### ザッカーバーグの不都合
 
 いっぽう、「ソーシャル・ネットワーク」が思わぬ向かい風になった人もいる。他ならぬ、フェイスブック代表のマーク・ザッカーバーグだ。
 
@@ -69,8 +69,23 @@
 
 — 仕方ない。予定通り、9月24日に発表しましょう。
 
-## Test
+### プリシラ・チャン
 
-そもそも、ザッカーバーグはなぜ、ニュワークに1億ドルを寄付することになったのか?それには、彼の妻のプリシラ・チャンさんの[影響があった](https://goo.gl/B7k68n#UZwcT1mh)。
+そもそも、ザッカーバーグはなぜ、ニュワークに1億ドルを寄付することになったのか?それには彼の妻、プリシラ・チャンの[影響があった](https://goo.gl/B7k68n#UZwcT1mh)。
+
+<p><figure>
+  <img src="the-prize-draft-images/zuck-priscilla.jpg" />
+  <figcaption>
+    左がチャン。By Lukasz Porwol [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AMark_Zuckerberg_in_Prague_2013.jpg">via Wikimedia Commons</a>
+  </figcaption>
+</figure></p>
+
+チャンの両親は、アメリカにボートで辿り着いたベトナム戦争の難民だった。父親は中華レストランを経営し、母親は仕事を掛け持ち、一日18時間働いた両親の代わりに、祖父母がチャンと二人の妹の[面倒を見た](https://goo.gl/B7k68n#UZwcT1mh)。チャンは普通の公立校に通ったが、先生たちが彼女の才能を見抜き、応援し、ハーバードに彼女を送りだした。チャンはそこで、ザッカーバーグに出会った。
+
+医者を志したチャンは、ハーバード南にある貧困地区で4年間、恵まれない子たちのためにボランティアをしていた。医学大学院に入学した後も、サンフランシスコのヒスパニック系移民向けのクリニックで[働いた](https://goo.gl/B7k68n#UZwcT1mh)。
+
+— ボストンの貧しい子たちといると[思うんです](https://goo.gl/B7k68n#UZwcT1mh)。この子たちは私と一緒だ。諦めずに助けていれば、どこかで私みたいに幸運を掴めるかもしれないって。
+
+The difference between Zuck and Chan...
 
 <div class="fb-post" data-href="https://www.facebook.com/4/posts/10100387011762121/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/4/posts/10100387011762121/" class="fb-xfbml-parse-ignore">(ザッカーバーグの結婚式の写真)</blockquote></div>
