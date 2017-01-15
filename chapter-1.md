@@ -1,3 +1,5 @@
+<hr id="chapter-1" />
+
 ## 第一章: ヒーロー童貞
 
 — 震災後にここに戻ってきたときは、生まれて初めて、解けない問題に直面したような感じでした。
@@ -167,7 +169,9 @@
 
 フェイスブック社がイースト・パロアルトにやってきた2年後、ザッカーバーグは[1億2000ドル](http://www.mercurynews.com/2014/05/29/mark-zuckerberg-and-dr-priscilla-chan-why-were-committing-120-million-to-bay-area-schools/)をイースト・パロアルトを含む近郊の貧しい学区に寄付することを決定。[最初に支払われた100万ドル](https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/)は、イースト・パロアルトの学生たちにタブレット端末を配るために使われた。
 
-続いてザッカーバーグは、イースト・パロアルトの新しい総合クリニック「Ravenswood Family Health Center」設立の際に、妻のプリシラと500万円を[寄付](http://www.paloaltoonline.com/news/2014/01/23/zuckerberg-wife-give-5-million-to-build-east-palo-alto-health-center)した。二人はさらに、イースト・パロアルトに低所得者層の児童向けの学校「The Primary School」を2016年に[設立](http://forbesjapan.com/articles/detail/10743)。3歳から入学でき、学費は無料で保育・医療サービスも提供する。
+(注: 1ドル=約100円として考えてほしい。1億ドル=約100億円。)
+
+続いてザッカーバーグは、イースト・パロアルトの新しい総合クリニック「Ravenswood Family Health Center」設立の際に、妻のプリシラと5万ドルを[寄付](http://www.paloaltoonline.com/news/2014/01/23/zuckerberg-wife-give-5-million-to-build-east-palo-alto-health-center)した。二人はさらに、イースト・パロアルトに低所得者層の児童向けの学校「The Primary School」を2016年に[設立](http://forbesjapan.com/articles/detail/10743)。3歳から入学でき、学費は無料で保育・医療サービスも提供する。
 
 ザッカーバーグの貢献はカネやハコモノだけに留まらない。たとえばフェイスブックは毎年夏、イースト・パロアルトの高校生を何人かインターンで雇っている。
 
