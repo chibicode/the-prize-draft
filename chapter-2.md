@@ -24,7 +24,7 @@
 <p><figure>
   <img src="the-prize-draft-images/fb-search-trends.png" />
   <figcaption>
-    ソース: [Google Trends](https://www.google.com/trends/explore?date=all&geo=JP&q=%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%96%E3%83%83%E3%82%AF)
+    ソース: <a href="https://www.google.com/trends/explore?date=all&geo=JP&q=%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%96%E3%83%83%E3%82%AF">Google Trends</a>
   </figcaption>
 </figure></p>
 
@@ -73,7 +73,7 @@
 
 ### プリシラ・チャン
 
-そもそも、ザッカーバーグはなぜ、ニュワークに1億ドルを寄付することになったのか?それには彼の妻、プリシラ・チャンの[影響があった](https://goo.gl/B7k68n#UZwcT1mh)。
+そもそも、不自由なく育ったザッカーバーグがなぜ、ニュワークに1億ドルを寄付することになったのか?それには彼の妻、プリシラ・チャンの[影響があった](https://goo.gl/B7k68n#UZwcT1mh)。
 
 <p><figure>
   <img src="the-prize-draft-images/zuck-priscilla.jpg" />
