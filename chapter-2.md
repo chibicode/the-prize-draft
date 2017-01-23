@@ -121,7 +121,7 @@
 
 <p><figure>
   <img src="the-prize-draft-images/newark-cory-poster.jpg" />
-  <figcaption>ブッカーの選挙ポスター。 By Paul Sableman [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://flic.kr/p/mxa7zH">via Flickr</figcaption>
+  <figcaption>ブッカーの選挙ポスター。 By Paul Sableman [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://flic.kr/p/mxa7zH">via Flickr</a></figcaption>
 </figure></p>
 
 議員になったブッカーは、持ち前のヒーローぶりを存分に発揮する。惜しみなくメディアに露出し、「恵まれた家に生まれた若い黒人政治家が、ニューアークというアメリカの最貧地区で市民のために戦う」という、アメリカ人が好きそうなストーリーを[披露した](https://goo.gl/B7k68n#4l8Y1hR9)。(ニューアークの貧困については、<a href="#chapter-3">第三章</a>で詳しく述べる。)

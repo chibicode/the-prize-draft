@@ -216,7 +216,7 @@
 
 <p><figure>
   <img src="the-prize-draft-images/newark-alley.jpg" />
-  <figcaption>ニューアークの路地裏。 By Paul Sableman [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://flic.kr/p/mNcBWr">via Flickr</figcaption>
+  <figcaption>ニューアークの路地裏。 By Paul Sableman [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://flic.kr/p/mNcBWr">via Flickr</a></figcaption>
 </figure></p>
 
 そのニューアークの公立学校向けに、ザッカーバーグは2010年、1億ドルもの寄付を約束した。フェイスブックの上場よりも一年半はやく、弱冠26歳のザッカーバーグは個人での巨額寄付に踏み切ったのだ。
