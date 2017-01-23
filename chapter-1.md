@@ -171,7 +171,7 @@
 
 7年前にイースト・パロアルトで命の危険に晒されたザッカーバーグは、瞬く間に地域のヒーローになった。
 
-フェイスブック社がイースト・パロアルトにやってきた2年後、ザッカーバーグは[1億2000ドル](http://www.mercurynews.com/2014/05/29/mark-zuckerberg-and-dr-priscilla-chan-why-were-committing-120-million-to-bay-area-schools/)をイースト・パロアルトを含む近郊の貧しい学区に寄付することを決定。[最初に支払われた100万ドル](https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/)は、イースト・パロアルトの学生たちにタブレット端末を配るために使われた。
+フェイスブック社がイースト・パロアルトにやってきた2年後、ザッカーバーグは[1億2000万ドル](http://www.mercurynews.com/2014/05/29/mark-zuckerberg-and-dr-priscilla-chan-why-were-committing-120-million-to-bay-area-schools/)をイースト・パロアルトを含む近郊の貧しい学区に寄付することを決定。[最初に支払われた100万ドル](https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/)は、イースト・パロアルトの学生たちにタブレット端末を配るために使われた。
 
 (注: 1ドル=約100円として考えてほしい。1億ドル=約100億円。)
 
@@ -207,7 +207,17 @@
 
 彼は、ヒーロー初体験をニューヨーク郊外にあるニューアークという市で済ませた。
 
-ニューアークはニュージャージー州最大の都市でありながら、イースト・パロアルトと同じく、[以前は](http://www.pbs.org/pov/revolution67/background/)「赤の地域」だった。現在も、ニューアークは全米を代表するゲットーとして悪名高い。教育レベルも低く、貧困の連鎖が次々と起きていた。
+<p><figure>
+  <img src="the-prize-draft-images/newark-map.png" />
+  <figcaption><a href="https://goo.gl/maps/j365KvLQqQL2">Google Maps</a></figcaption>
+</figure></p>
+
+ニューアークはニュージャージー州最大の都市でありながら、イースト・パロアルトと同じく、[以前は](http://www.pbs.org/pov/revolution67/background/)「赤の地域」だった。現在も、ニューアークは全米を代表するゲットーとして悪名高い。教育レベルも低く、貧困の連鎖が次々と起きていた。(ニューアークの貧困については、<a href="#chapter-3">第三章</a>で詳しく述べる。)
+
+<p><figure>
+  <img src="the-prize-draft-images/newark-alley.jpg" />
+  <figcaption>ニューアークの路地裏。 By Paul Sableman [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://flic.kr/p/mNcBWr">via Flickr</figcaption>
+</figure></p>
 
 そのニューアークの公立学校向けに、ザッカーバーグは2010年、1億ドルもの寄付を約束した。フェイスブックの上場よりも一年半はやく、弱冠26歳のザッカーバーグは個人での巨額寄付に踏み切ったのだ。
 
