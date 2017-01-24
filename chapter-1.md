@@ -191,7 +191,7 @@
 
 <p><figure>
   <img src="the-prize-draft-images/takano.jpg" />
-  <figcaption>ディネード役の高野伸博さん。「相双神旗ディネード」の<a href="https://www.youtube.com/watch?v=ooExRI4NSco">予告動画より</a>。</figcaption>
+  <figcaption>ヒーロー童貞だった、ディネード役の高野伸博さん。「相双神旗ディネード」の<a href="https://www.youtube.com/watch?v=ooExRI4NSco">予告動画より</a>。</figcaption>
 </figure></p>
 
 まず、映画でディネード役を演じたのは高野伸博さんという地元の男性だった。ディネードの特集を組んだ「めざましテレビ」によると、この高野さんはルックスの良さを買われて主演になったのだが、なんとそれまで演技経験は「ゼロ」だったらしい。
@@ -200,7 +200,7 @@
 
 <p><figure>
   <img src="the-prize-draft-images/zuck2.jpg" />
-  <figcaption><a href="http://newsroom.fb.com/media-gallery/events/qa-with-mark-zuckerberg-at-facebook-headquarters/">Facebookのコーポレートサイトより</a>。</figcaption>
+  <figcaption>ザッカーバーグ。<a href="http://newsroom.fb.com/media-gallery/events/qa-with-mark-zuckerberg-at-facebook-headquarters/">Facebookのコーポレートサイトより</a>。</figcaption>
 </figure></p>
 
 一方、ザッカーバーグは、イースト・パロアルトにやってくる前にヒーロー童貞を捨てていた。
@@ -221,13 +221,18 @@
 
 そのニューアークの公立学校向けに、ザッカーバーグは2010年、1億ドルもの寄付を約束した。フェイスブックの上場よりも一年半はやく、弱冠26歳のザッカーバーグは個人での巨額寄付に踏み切ったのだ。
 
+<p><figure>
+  <img src="the-prize-draft-images/nytimes-first-article.jpg" />
+  <figcaption><a href="http://www.nytimes.com/2010/09/23/education/23newark.html">当時のNYタイムスの記事。</a></figcaption>
+</figure></p>
+
 では、この1億ドルでニューアークはどう変わったのか。貧困にあえぐ子どもたちは、果たして希望を抱けるようになったのだろうか。
 
 ### ザッカーバーグの黒歴史
 
-結論から言うと、ザッカーバーグのニューアークへの寄付は大失敗に終わった。
+結論から言うと、ザッカーバーグのニューアークへの寄付は大失敗に終わった。後に詳しく話すが、1億ドルはニューアークの社会問題を解決するどころか、かえって悪化させてしまったのである。
 
-ザッカーバーグのヒーロー初体験は、彼のこれまでの輝かしい経歴において最大級の黒歴史となった。その炎上劇を取材した本・「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」は、2015年にニューヨークタイムズのベストセラーに選ばれた。ザッカーバーグ本人もイースト・パロアルトの慈善事業を発表したとき、「ニューアークで犯した過ちは繰り返さないようにする」と[インタビューで反省している](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)。
+ザッカーバーグのヒーロー初体験は、彼のこれまでの輝かしい経歴において最大級の黒歴史となった。後に彼は[インタビュー](http://www.edweek.org/ew/articles/2016/03/07/zuckerberg-talks-personalized-learning-philanthropy-and-lessons.html)で、「ニューアークでやったことは繰り返さないようにする」とも答えている。
 
 いったい、ニューアークでどんな失敗が起きたのか。それを、この記事で紐解いていこうと思う。
 
