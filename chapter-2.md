@@ -170,7 +170,12 @@
 
 その一ヶ月後。ザッカーバーグは寄付を大々的に発表すべく、ブッカーらともに「オプラ・ウィンフリー・ショー」に出演した。「ソーシャル・ネットワーク」公開の一週間前の大一番だった。
 
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200898172756391" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200898172756391" class="fb-xfbml-parse-ignore">(オプラ・ウィンフリー・ショーにて)</blockquote></div>
+<p><figure>
+  <img src="the-prize-draft-images/oprah.jpg" />
+  <figcaption>
+    司会のオプラ・ウィンフリー。By https://www.flickr.com/photos/aphrodite-in-nyc [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOprah_in_2014.jpg">via Wikimedia Commons</a>
+  </figcaption>
+</figure></p>
 
 全米屈指のバラエティ番組のステージで、まずブッカーと当時の州知事が、ニューアークの教育改革の必要性を訴えた。すかさず司会のウィンフリーは、まだ口を開いていないザッカーバーグに[質問する](http://www.oprah.com/oprahshow/Mark-Zuckerbergs-Big-Announcement-Video)。
 
@@ -179,6 +184,8 @@
 — 1!億!ドル!ですって!YO!YO!YO!YO!YO!YO!
 
 ザッカーバーグが台詞を言い終える前に、スタジオは総立ちの拍手に包まれた。弱冠26歳の億万長者は照れながら、座ったままで[感謝した](http://www.oprah.com/oprahshow/Mark-Zuckerbergs-Big-Announcement-Video)。
+
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200898172756391" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200898172756391" class="fb-xfbml-parse-ignore">(オプラ・ウィンフリー・ショーにて)</blockquote></div>
 
 フェイスブックで世界を変えたザッカーバーグによって、アメリカの教育も変わろうとしている。観客はもちろん、お茶の間のアメリカ人もそう感じ取ったに違いない。
 
