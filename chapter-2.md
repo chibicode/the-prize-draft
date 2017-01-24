@@ -173,7 +173,7 @@
 <p><figure>
   <img src="the-prize-draft-images/oprah.jpg" />
   <figcaption>
-    司会のオプラ・ウィンフリー。By https://www.flickr.com/photos/aphrodite-in-nyc [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOprah_in_2014.jpg">via Wikimedia Commons</a>
+    司会のオプラ・ウィンフリー。By aphrodite-in-nyc [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOprah_in_2014.jpg">via Wikimedia Commons</a>
   </figcaption>
 </figure></p>
 
