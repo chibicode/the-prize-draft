@@ -4,13 +4,6 @@
 
 ザッカーバーグがニューアークで演じた炎上劇は、「[The Prize](https://www.amazon.co.jp/Prize-Whos-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=chibicode-22)」というノンフィクション本にまとめられた。著者はデール・ルサコフ氏。ワシントン・ポスト紙で28年働いた敏腕記者である。
 
-<p><figure>
-  <a href="http://amzn.to/2idlf1u"><img src="the-prize-draft-images/the-prize.jpg" /></a>
-  <figcaption>
-    Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. Print. (<a href="http://amzn.to/2idlf1u">Amazonリンク</a>)
-  </figcaption>
-</figure></p>
-
 「The Prize」は瞬く間にアメリカの教育業界で話題になり、ニューヨークタイムズのベストセラーに選ばれた。2017年1月時点では未だ邦訳されていないが、日本人にも興味深く思える内容だと思う。(<a href="http://amzn.to/2idlf1u">Amazonリンクはこちら</a>)
 
 というわけで、ここからは、「[The Prize](http://amzn.to/2idlf1u)」の内容を引用しながら話を進める。脚注はすべて[このページ](https://goo.gl/B7k68n)にまとめていて、文中で引用した部分にはそれぞれリンクを貼っている。
