@@ -15,4 +15,4 @@ og_image_height: 1260
 ### 目次
 
 1. [第一章: ヒーロー童貞](#chapter-1)
-2. [第二章: The Prize](#chapter-2)
+2. [第二章: 1億ドル](#chapter-2)
