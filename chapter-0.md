@@ -16,3 +16,4 @@ og_image_height: 1260
 
 1. [第一章: ヒーロー童貞](#chapter-1)
 2. [第二章: 1億ドル](#chapter-2)
+3. [第三章](#chapter-3)

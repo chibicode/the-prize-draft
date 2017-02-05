@@ -1,20 +1,16 @@
 <hr id="chapter-3" />
 
-## 第三章:
+## 第三章
+
+ザッカーバーグやブッカーが「貧困を解決したい」と思う町・ニューアーク。いったい、どれほど厳しい環境なのだろうか。
 
 <p><figure>
-  <img src="the-prize-draft-images/trump-christie.jpg" />
+  <img src="the-prize-draft-images/newark-housing-authority.jpg" />
   <figcaption>
-    ドナルド・トランプ(左)とクリス・クリスティー(右)。
-    Gage Skidmore [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ADonald_Trump_by_Gage_Skidmore.jpg">via Wikimedia Commons</a> / By Michael Vadon (Own work) [<a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AChris_Christie_April_2015_(cropped).jpg">via Wikimedia Commons</a>
+    ニューアークの空き家。By Paul Sableman [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://flic.kr/p/mzgxP8">via Flickr</a>
   </figcaption>
 </figure></p>
 
+日本では2012年に子どもの貧困率が「6人に1人」を突破し話題になった。アメリカの子どもの貧困率は「[5人に1人](http://www.pewresearch.org/fact-tank/2015/07/14/black-child-poverty-rate-holds-steady-even-as-other-groups-see-declines/)」(2010年)だったが、ニューアークの貧困率は2010年に「[5人に2人](http://acnj.org/downloads/2013_02_01_NewarkReport.pdf)」だった。
 
-— お前はクビだ!
-
-ドナルド・トランプは、彼が司会を務めたテレビ番組「[アプレンティス](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9)」で人気を博した。参加者がトランプの部下見習いとして課題に取り組み、トランプ氏が毎回一人ずつ決め台詞を言ってクビにし、最後まで生き残った者が勝者となる。
-
-2016年のアメリカ大統領選でトランプ氏が勝利したとき、ゴール目前でクビになった手下がいた。ニューアーク市があるニュージャージー州の知事、クリス・クリスティーである。
-
-クリスティーもトランプと同じく大統領選に出馬したが、早々に脱落した。
+ザッカーバーグが寄付をする前、ニューアークの子どもの貧困率は44%
