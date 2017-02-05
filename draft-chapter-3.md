@@ -13,4 +13,4 @@
 
 日本では2012年に子どもの貧困率が「[6人に1人](http://www.nikkei.com/article/DGKKZO95894570Y6A100C1CC1000/)」を突破し話題になった。いっぽうで、ザッカーバーグが寄付を発表した2010年、アメリカの子どもの貧困率は「[5人に1人](http://www.pewresearch.org/fact-tank/2015/07/14/black-child-poverty-rate-holds-steady-even-as-other-groups-see-declines/)」だったが、ニューアークの貧困率は「[5人に2人](http://acnj.org/downloads/2013_02_01_NewarkReport.pdf)」だった。
 
-また、ニューアークの新生児のなんと7割がシングルマザーのもとに生まれている。日本は母子家庭の貧困率が[先進国最悪レベル](https://twitter.com/danishembtokyo/status/803868746855096320)だが、アメリカも日本と[大差はない](http://www8.cao.go.jp/youth/whitepaper/h26honpen/b1_03_03.html)。
+また、ニューアークの新生児のなんと7割がシングルマザーのもとに生まれている。2010年、日本はひとり親家庭の貧困率が[先進国最悪](http://www8.cao.go.jp/youth/whitepaper/h26honpen/b1_03_03.html)だったが、アメリカも[下から四番目](http://www8.cao.go.jp/youth/whitepaper/h26honpen/b1_03_03.html)だった。
