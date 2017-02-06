@@ -1,6 +1,6 @@
-<hr id="chapter-3" />
+<hr id="chapter-4" />
 
-## 第三章:
+## 第四章:
 
 <p><figure>
   <img src="the-prize-draft-images/trump-christie.jpg" />
