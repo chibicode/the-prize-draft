@@ -1,6 +1,6 @@
 <hr id="chapter-3" />
 
-## 第三章
+## 第三章: 10億ドルのご褒美
 
 ザッカーバーグやブッカーが「貧困を教育で解決したい」と思う町・ニューアーク。いったい、どれほど厳しい環境なのだろうか。
 
@@ -11,9 +11,11 @@
   </figcaption>
 </figure></p>
 
-**Write about newark's history (one and a half mile radius)**
+ニューアークはもともと白人多数の裕福な町だったが、大戦後に起きた郊外化と先に述べたレッドライン政策のせいで、60年代には町が貧しい黒人だらけになり、工場などの仕事も消えて[なくなった](http://www.pbs.org/pov/revolution67/background/)。その後建設業界が力を握って乱開発が起き、地域のつながりが分断された。気づけば町は公共団地だらけになり、5キロ四方の地区に2万人近くの貧困層が押し込まれ、[アメリカ東海岸最大のゲットー](https://goo.gl/#0uYUMDXw)が誕生した。
 
-では、子どもの貧困率をみてみよう。
+それ以来、産業と繁栄がニューアークに戻ることはなかった。貧困率、失業率、犯罪率はどれも高止まりしていた。
+
+### 子どもの貧困と教育行政
 
 日本では2012年に子どもの貧困率が「[6人に1人](http://www.nikkei.com/article/DGKKZO95894570Y6A100C1CC1000/)」を突破し話題になった。いっぽうで、ザッカーバーグが寄付を発表した2010年、アメリカの子どもの貧困率は「[5人に1人](http://www.pewresearch.org/fact-tank/2015/07/14/black-child-poverty-rate-holds-steady-even-as-other-groups-see-declines/)」だったが、ニューアークの子どもの貧困率は「[5人に2人](http://acnj.org/downloads/2013_02_01_NewarkReport.pdf)」だった。ちなみに、[95%](http://acnj.org/downloads/2013_02_01_NewarkReport.pdf)の子どもは黒人かヒスパニックだ。
 
@@ -51,9 +53,11 @@
 
 教育の民主主義を守るはずの教育委員会も、政治家や組合員といった既得権益者の手先が[掌握していて](https://goo.gl/B7k68n#8aMAAxwa)、誰も何も変えなかった。
 
-そして補助金が腐敗に拍車をかけた。ニューアークと他の地域の教育格差があまりにも大きすぎたため、1995年に司法が介入して教育に[補助金がついた](http://www.nytimes.com/1995/04/14/nyregion/judge-orders-a-state-takeover-of-the-newark-school-district.html)。
+### 10億ドル
+
+さらに、補助金が腐敗に拍車をかけた。ニューアークと他の地域の教育格差があまりにも大きすぎたため、1995年に司法が介入して教育に[補助金がついた](http://www.nytimes.com/1995/04/14/nyregion/judge-orders-a-state-takeover-of-the-newark-school-district.html)。
 ニューアークは人口も州で最も多く、また教育機関が最大の雇用主であることから、補助金を入れた教育行政予算は年に10億ドルにのぼった。
 
-この10億ドルは本のタイトルにもある「The Prize」(ごほうび)と[揶揄された](https://goo.gl/B7k68n#ICTEHU7z)。生徒や学校にはお金は回らず、既得権益者のふところが潤うだけだった。
+この10億ドルは本のタイトルにもある「The Prize」(ご褒美)と[揶揄された](https://goo.gl/B7k68n#ICTEHU7z)。生徒や学校にはお金は回らず、既得権益者のふところが潤うだけだった。
 
 ニューアークにおいては長い間、教育は子どものためではなく、大人のためにあったのだ。
