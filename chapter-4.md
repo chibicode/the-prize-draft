@@ -1,6 +1,6 @@
 <hr id="chapter-4" />
 
-## 第四章:
+## 第四章: トランプのご褒美
 
 <p><figure>
   <img src="the-prize-draft-images/trump-christie.jpg" />
@@ -20,7 +20,7 @@
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">UPDATE: Chris Christie is still standing motionless and expressionless behind Trump <a href="https://t.co/E4Wyc9Mmvf">pic.twitter.com/E4Wyc9Mmvf</a></p>&mdash; NowThis (@nowthisnews) <a href="https://twitter.com/nowthisnews/status/704859667244191745">March 2, 2016</a></blockquote>
 
-クリスティーは恥も外聞も捨ててトランプに忠誠を尽くしたが、トランプは大統領当選後、クリスティーに何もご褒美を与えなかった。クリスティーは、一時は政権移行チームのトップを任されたがすぐ解任され、[長年の夢](http://www.vanityfair.com/news/2017/01/chris-christie-trump-administration)だった司法長官のポストも与えられず、実質的にクビになった。
+クリスティーは恥も外聞も捨ててトランプに忠誠を尽くしたが、トランプは大統領当選後、クリスティーに何もご褒美を与えなかった。クリスティーは、一時は政権移行チームのトップを任されたがすぐ解任され、[長年の夢](http://www.vanityfair.com/news/2017/01/chris-christie-trump-administration)だった司法長官のポストも与えられず、事実上のクビになった。
 
 なぜトランプの逆鱗に触れたのかは諸説あるが、以前クリスティーが起こしたスキャンダル問題が再燃したこと、権力を手にしたトランプの娘婿・クシュナー氏といざこざがあったことが[理由に挙げられている](http://www.vanityfair.com/news/2017/01/chris-christie-trump-administration)。
 
@@ -28,9 +28,11 @@
 
 ここで、第二章で紹介したコーリー・ブッカーの話に戻る。
 
+同じくニュージャージー州の政治家であるブッカーは、2016年の大統領選挙中、ヒラリー・クリントンの[右腕的存在](http://www.nj.com/politics/index.ssf/2016/07/who_is_cory_booker_a_hillary_clinton_vp_finalist_f.html)だった。
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A quick stop for lunch in Cedar Rapids with <a href="https://twitter.com/CoryBooker">@CoryBooker</a> yesterday. <a href="https://t.co/XjWH665VPP">pic.twitter.com/XjWH665VPP</a></p>&mdash; Hillary Clinton (@HillaryClinton) <a href="https://twitter.com/HillaryClinton/status/691647730884702208">January 25, 2016</a></blockquote>
 
-同じくニュージャージー州の政治家であるブッカーは、2016年の大統領選挙中、ヒラリー・クリントンの[右腕的存在](http://www.nj.com/politics/index.ssf/2016/07/who_is_cory_booker_a_hillary_clinton_vp_finalist_f.html)だった。当然ながら、トランプの右腕のクリスティーと、クリントンの右腕のブッカーは、選挙中に互いを[批判し合っていた](http://www.nj.com/politics/index.ssf/2016/07/booker_calls_out_christie_for_his_attacks_on_clint.html)。トランプ当選後も、クリスティーはトランプを[擁護し続け](http://thehill.com/homenews/sunday-talk-shows/317974-christie-trump-deserves-credit-for-reversing-course-on-original)、ブッカーはトランプを「嘘つきだ」と[批判し続けた](http://www.cnn.com/2017/01/26/politics/cory-booker-donald-trump-cnntv/)。
+当然ながら、トランプの右腕のクリスティーと、クリントンの右腕のブッカーは、選挙中に互いを[批判し合っていた](http://www.nj.com/politics/index.ssf/2016/07/booker_calls_out_christie_for_his_attacks_on_clint.html)。トランプ当選後も、クリスティーはトランプを[擁護し続け](http://thehill.com/homenews/sunday-talk-shows/317974-christie-trump-deserves-credit-for-reversing-course-on-original)、ブッカーはトランプを「嘘つきだ」と[批判し続けた](http://www.cnn.com/2017/01/26/politics/cory-booker-donald-trump-cnntv/)。
 
 しかし、二人は仲が昔から悪かったわけではなかった。むしろ、大統領選挙がはじまる少し前まで、クリスティーとブッカーは党派を超えた盟友だった。
 
