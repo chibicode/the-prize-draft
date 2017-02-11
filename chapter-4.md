@@ -1,6 +1,6 @@
 <hr id="chapter-4" />
 
-## 第四章: トランプのご褒美
+## 第四章: イデオロギー
 
 <p><figure>
   <img src="the-prize-draft-images/trump-christie.jpg" />
