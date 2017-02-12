@@ -92,7 +92,7 @@
 <p><figure>
   <img src="the-prize-draft-images/gekioko.png" />
   <figcaption>
-    600人の住人、激おこ。絵文字の数は60個。
+    600人の住人、<a href="http://www.nj.com/news/index.ssf/2011/02/secret_plan_to_close_newark_sc.html">激おこ</a>。絵文字の数は60個。
   </figcaption>
 </figure></p>
 
