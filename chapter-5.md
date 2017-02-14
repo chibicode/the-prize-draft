@@ -1,6 +1,6 @@
 <hr id="chapter-5" />
 
-## 第五章: 住民と金持ち
+## 第五章: 住民の集会と金持ちの集会
 
 <p><figure>
   <img src="the-prize-draft-images/sheryl.jpg" />
