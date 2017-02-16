@@ -20,3 +20,4 @@ og_image_height: 1260
 1. [第六章: エイボン校](#chapter-6)
 1. [第七章: セントラル校](#chapter-7)
 1. [第八章: 学区長](#chapter-8)
+1. [第九章](#chapter-9)

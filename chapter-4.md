@@ -31,7 +31,7 @@
 <p><figure>
   <img src="the-prize-draft-images/cory-christie.jpg" />
   <figcaption>
-    2013年9月25日。クリス・クリスティー・ニュージャージー州知事(左)とコリー・ブッカー・ニューアーク市長(右)。(<a href="http://www.state.nj.us/governor/media/photos/2013/20130925a.shtml">Governor's Office/Tim Larsen</a>)
+    2013年9月25日。クリス・クリスティー・ニュージャージー州知事(左)とコリー・ブッカー・ニューアーク市長(右)。(By <a href="http://www.state.nj.us/governor/media/photos/2013/20130925a.shtml">Governor's Office/Tim Larsen</a>)
   </figcaption>
 </figure></p>
 
@@ -76,7 +76,7 @@
 <p><figure>
   <img src="the-prize-draft-images/cory-christie-2.jpg" />
   <figcaption>
-    2010年7月28日。コリー・ブッカー・ニューアーク市長(左)とクリス・クリスティー・ニュージャージー州知事(右)と。(<a href="http://www.state.nj.us/governor/media/photos/2010/20100728.shtml">Governor's Office/Tim Larsen</a>)
+    2010年7月28日。コリー・ブッカー・ニューアーク市長(左)とクリス・クリスティー・ニュージャージー州知事(右)と。(By <a href="http://www.state.nj.us/governor/media/photos/2010/20100728.shtml">Governor's Office/Tim Larsen</a>)
   </figcaption>
 </figure></p>
 
