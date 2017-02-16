@@ -58,7 +58,7 @@
 <p><figure>
   <img src="the-prize-draft-images/cerf.jpg" />
   <figcaption>
-    クリストファー・サーフ。2010年にニュージャージー州の教育長官に<a href="http://www.nytimes.com/2010/12/18/nyregion/18cerf.html">就任</a>。(2011年11月16日。By <a href="http://www.state.nj.us/governor/media/photos/2011/20111116a.shtml">Governor's Office/Tim Larsen</a>)
+    クリストファー・サーフ。2010年にニュージャージー州の教育長官に<a href="http://www.nytimes.com/2010/12/18/nyregion/18cerf.html">就任</a>。(写真は<a href="http://www.state.nj.us/governor/media/">州知事の公式メディアページ</a>より。2011年11月16日。By <a href="http://www.state.nj.us/governor/media/photos/2011/20111116a.shtml">Governor's Office/Tim Larsen</a>)
   </figcaption>
 </figure></p>
 
