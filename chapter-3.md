@@ -78,7 +78,7 @@
 
 市の上層部を見れば、ブッカーが市長に就任するまでの44年間に市長を務めた3人は、全員汚職で逮捕されている。東京都政が可愛く見えるレベルだ。
 
-1962-70年のニューアーク市長はギャングと癒着しており、建築業者を通じて150万ドルを受け取ったことがバレて[逮捕された](http://www.nytimes.com/1981/02/02/obituaries/hugh-j-addonizio-67-ex-mayor-of-newark-jailed-5-years-dead.html)。1970-86年の市長も校舎建設の予算を数百万ドル単位で横領したことがバレて[逮捕された](http://www.nytimes.com/2002/11/01/nyregion/newark-s-ex-mayor-admits-tax-evasion-and-avoids-prison.html)。1986-2006年の市長も市の所有物を個人で転売していたことが退職後にバレて[逮捕された](http://www.nj.com/news/index.ssf/2008/04/newark_ex_mayor_sharpe_james_convicted.html)。
+1962-70年のニューアーク市長はギャングと癒着しており、建築業者を通じて150万ドルを受け取ったことがバレて[逮捕された](http://www.nytimes.com/1981/02/02/obituaries/hugh-j-addonizio-67-ex-mayor-of-newark-jailed-5-years-dead.html)。1970-86年の市長も校舎建設の予算を数百万ドル単位で横領したことがバレて[逮捕された](http://www.nytimes.com/2002/11/01/nyregion/newark-s-ex-mayor-admits-tax-evasion-and-avoids-prison.html)。1986-2006年の市長も市有地を個人で転売していたことが退職後にバレて[逮捕された](http://www.nj.com/news/index.ssf/2008/04/newark_ex_mayor_sharpe_james_convicted.html)。
 
 同じく、下層部にも腐敗は蔓延していた。1994年には、ニューアークの学校の校長ふたりがダミー会社を作り、ネズミ被害やアスベストだらけのビルを安く買った。そのビルを、市議会議員とのパイプを通じて、市に学校の校舎として高く売ろうとしていたことが[発覚した](https://goo.gl/B7k68n#UPn5yDHD)。
 

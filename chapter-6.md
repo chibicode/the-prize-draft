@@ -18,7 +18,7 @@
 
 そんな逆境に、立ち向かった先生たちがいた。
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/D6hcxsG3yAw" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/D6hcxsG3yAw" frameborder="0" allowfullscreen></iframe></p>
 
 [ティーチ・フォー・アメリカ](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%81%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)という教育NPOがある。アメリカの一流大学の卒業生を、教員免許の有無に関わらず、教育困難地域にある学校に常勤講師として2年間赴任させるプログラムを実施している。文系学生の就職先としてグーグルやディズニーよりも人気だったことで[話題になった](http://diamond.jp/articles/-/34669)。ちなみに日本にも「[ティーチフォージャパン](http://teachforjapan.org/)」という同様のプログラムがある。
 
