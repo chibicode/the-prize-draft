@@ -1,3 +1,5 @@
+- first write about the selection problem. forget about the 学力テスト score problem until later. then talk about cami and how she's concerned about the effects on district schools.
+
 鋭い方はお気づきかもしれないが、「どうやってチャーターに入学するのか」について語っていなかった。
 
 
