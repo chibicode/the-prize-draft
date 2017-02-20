@@ -36,13 +36,6 @@
 
 アメリカの学校は秋入学で、その前に長い夏休みがある。2011年5月に学区長になったアンダーソンは、学校が休みに入るなり改革に着手した。
 
-<p><figure>
-  <img src="the-prize-draft-images/cami.jpg" />
-  <figcaption>
-    ニューアークの生徒と話すキャミー・アンダーソン学区長。(写真は<a href="http://www.state.nj.us/governor/media/">州知事の公式メディアページ</a>より。2011年5月4日。By <a href="http://www.state.nj.us/governor/media/photos/2011/20110504.shtml">Governor's Office/Tim Larsen</a>)
-  </figcaption>
-</figure></p>
-
 彼女はまず、矢継ぎ早に何人かのコンサルタントと[契約を結んだ](https://goo.gl/B7k68n#UJCnHGeI)。秋までにやらないといけないタスクが多すぎたので、短期で入ってくれるコンサルタントたちは、一人あたり1日1000ドルを支払っても背に腹は代えられない存在だった。
 
 コンサルタントたちは、ニューアークの教育事務局の怠慢を暴いた。雇用がないニューアークにおいて、教育事務局は最大の雇用主だった。しかし職員のスキルは低く、意味のない役職も多く、誰もまじめに仕事をしていなかった。
