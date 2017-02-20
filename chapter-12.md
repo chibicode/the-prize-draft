@@ -123,8 +123,8 @@
   <img src="the-prize-draft-images/shimensoka.jpg" />
 </figure></p>
 
-クリスティーはアンダーソン学区長に[電話をかける](https://goo.gl/B7k68n#SKTp2CLh)。
+クリスティーは、アンダーソンに[引導を渡した](https://goo.gl/B7k68n#SKTp2CLh)。
 
-— 3時間やる。辞表を出すか、クビを言い渡されるか、好きな方を選んでほしい。
+— 3時間やる。自ら辞任するか、クビを言い渡されるか、好きな方を選んでくれ。
 
 アンダーソン学区長は、[辞任を選んだ](https://goo.gl/B7k68n#SKTp2CLh)。

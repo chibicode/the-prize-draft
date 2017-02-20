@@ -44,3 +44,10 @@
 もしもこの2億ドルが現場に使われていたら、ニューアークの子どもたちの人生はどう変わっていたのだろうか。
 
 ### ニューアークの反省会
+
+<p><figure>
+  <img src="the-prize-draft-images/newark.jpg" />
+  <figcaption>
+    By Paul Sableman [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://flic.kr/p/mNbnXB">via Flickr</a>
+  </figcaption>
+</figure></p>
