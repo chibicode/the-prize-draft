@@ -44,7 +44,7 @@
   </figcaption>
 </figure></p>
 
-チャータースクールがアメリカで話題になったのは2005年。ジャズの発祥地であるニューオーリンズを大型のハリケーン「カトリーナ」が襲った。[1000人以上が亡くなり、町の8割が水没した](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8A)。学校も[8割以上が](https://www.nytimes.com/2015/08/23/opinion/sunday/the-myth-of-the-new-orleans-school-makeover.html)破壊され、授業にならなくなり、ほとんどの先生が[クビ](https://www.nytimes.com/2015/08/23/opinion/sunday/the-myth-of-the-new-orleans-school-makeover.html)になるという非常事態が起きた。
+チャータースクールがアメリカで話題になったのは2005年。ジャズの発祥地であるニューオーリンズを大型のハリケーン「カトリーナ」が襲った。[1000人以上が亡くなり、町の8割が水没した](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8A)。学校も[8割以上が](https://www.nytimes.com/2015/08/23/opinion/sunday/the-myth-of-the-new-orleans-school-makeover.html)破壊され、授業にならなくなり、学区の教職員全員が[クビ](http://www.politico.com/magazine/story/2017/01/what-new-orleans-can-teach-betsy-devos-about-charter-schools-214610)になるという非常事態が起きた。
 
 ボロボロになったニューオーリンズの学区では以前から、ニューアークと同じく、生徒の学力が絶望的に低かった。「ちょうどいいから、全部ぶっ壊して一からやり直そう」という考えが主流になり、なんと街全体の公立学校が公設民営化され、チャータースクールに[なったのだ](https://www.nytimes.com/2015/08/23/opinion/sunday/the-myth-of-the-new-orleans-school-makeover.html)。ニューオーリンズには全米から民間教育事業者が集まり、次々と新しい学校をオープンさせていった。
 
@@ -92,3 +92,7 @@
 ニューアーク全体のチャータースクールでみるとどうか。スタンフォード大学が2012年に行った調査によれば、ニューアークのチャータースクールに通う生徒はそうでない生徒に比べ、卒業時に平均で半年分から一年分ほど、学力で先をいっていることが[わかった](https://goo.gl/B7k68n#UDbrYmuN)。
 
 しかし、ニューアークでは大失敗するチャータースクールも少なくなかった。あまりに生徒の学力が下がったため、閉鎖されるチャータースクールも[あった](https://goo.gl/B7k68n#UDbrYmuN)。公立校より規制が緩いので、結果がピンキリになるのはある意味当たり前なのだ。
+
+### ちなみに日本では
+
+日本でも、「子どもの貧困」対策という文脈で、ソーシャルワーカーを学校内に増やそうという取り組みがはじまっている。2015年、文科省が発表した「[学校をプラットフォームとした総合的な子供の貧困対策の推進](http://www.mext.go.jp/component/b_menu/other/__icsFiles/afieldfile/2015/01/21/1354606_4.pdf)」という資料によると、スクールソーシャルワーカー向けの予算を前年の4億円から6.5億円に拡大するという旨が記されている。
