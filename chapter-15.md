@@ -26,10 +26,6 @@
 
 お礼: The Prizeの著者のDale Rusakoffさん、記事の下書きを読んでくださったMari Sukegawaさん、Maiko Ishikawaさん、Kurumi Aibaさん、Susumu Uchidaさん、ありがとうございました。
 
-ツイッター:
-
-フェイスブック:
-
 以前書いた教育の記事 (★は多く読まれた記事):
 
 - [アメリカの学校現場でプログラミングを教える女性教員100人のプロフィール](http://chibicode.com/7-100-women-cs-teachers-america) / (2016年10月23日)
