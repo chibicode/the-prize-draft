@@ -130,3 +130,10 @@
 アンダーソン学区長は、[辞任を選んだ](https://goo.gl/B7k68n#SKTp2CLh)。
 
 ザッカーバーグのヒーロー初体験は、こうして幕を閉じた。
+
+<p><figure>
+  <a href="http://amzn.to/2idlf1u"><img src="the-prize-draft-images/the-prize.jpg" /></a>
+  <figcaption>
+    <a href="http://amzn.to/2idlf1u">Amazonリンクはこちら。</a> Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. Print.
+  </figcaption>
+</figure></p>
