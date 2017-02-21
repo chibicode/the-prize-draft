@@ -13,7 +13,7 @@
 
 ### キッズドア
 
-日本では最近子どもの貧困が話題になったが、なんと10年前の2007年から子どもの貧困問題を解決しようと頑張っている団体が[キッズドア](http://www.kidsdoor.net/)だ。学校外の居場所がない子どもたちに居場所を提供したり、お金がなくて塾に通えない子たちに無料の学習塾「タダゼミ」を提供する。
+日本では最近子どもの貧困が話題になったが、なんと10年前の2007年から子どもの貧困問題を解決しようと頑張っている団体が[キッズドア](http://www.kidsdoor.net/)だ。学校外の居場所がない子どもたちに居場所を提供したり、お金がなくて塾に通えない子たちに無料の学習塾「タダゼミ」を提供する。足立区などの自治体とも提携をしている。
 
 「タダゼミ」参加者の[高校進学率は100%](http://www.kidsdoor.net/otona/activity/educational-support.html)と、教育機会が乏しい家庭の子たち相手に、素晴らしい結果を出している。
 
@@ -116,3 +116,92 @@ Ozobotが動いている様子はこちら。
 [エル・システマ ジャパンのウェブサイトはこちら。](http://www.elsistemajapan.org/)
 
 ### モリウミアス
+
+もう一つ、東北の話を。
+
+[モリウミアス](http://moriumius.jp/)は、宮城県石巻市雄勝町にある子どもの複合体験施設である。豊かな森と海に恵まれた町だが、東日本大震災によって町の8割が壊滅し、人口が3000人から1000人行以下まで減ってしまった。復興への想いから、高台に残る築93年の廃校をリノベーションし、学び舎として再生させた。
+
+写真を見てもらえば分かると思うが、自然を活かし、子どもたちはサスティナブルな暮らし方を学ぶ。
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-3.jpg" />
+  <figcaption>
+    モリウミアス。2016年11月に訪問した。ちなみに、近くに津波で多くの子どもがなくなった<a href="https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%BB%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1">大川小学校</a>があり、そちらも訪問した。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-12.jpg" />
+  <figcaption>
+    代表の油井元太郎さん。アメリカの音大卒で、アメリカ在住歴20年近く。キッザニアを日本に導入する株式会社キッズシティージャパンの設立に関わる。ちなみに全員が木で作ったバッジをつける。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-4.jpg" />
+  <figcaption>
+    入り口。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-8.jpg" />
+  <figcaption>
+    廊下。奥が寝室になっている。木造建築を活かしたデザインは[「和の大家」とも称される](https://ja.wikipedia.org/wiki/%E9%9A%88%E7%A0%94%E5%90%BE)建築家、隈研吾氏を中心に世界中の建築学生と考えたもの。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-7.jpg" />
+  <figcaption>
+    食堂。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-10.jpg" />
+  <figcaption>
+    裏の山から木を伐採して役立てたり、田んぼを耕したり。使った生活水を田んぼの水に再利用する。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-1.jpg" />
+  <figcaption>
+    収穫した稲を干しているところ。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-9.jpg" />
+  <figcaption>
+    卵を産んでくれるニワトリ。食べ物の残りはニワトリの檻に。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-5.jpg" />
+  <figcaption>
+    子どもたちが大好きな豚さんたち。最後は売りに出し、豚さんたちのお肉を手を合わせて美味しく頂く。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-6.jpg" />
+  <figcaption>
+    鮭をさばく子どもたち。モリウミアスはすぐ目の前が海で、みんな船に乗って釣りに行く。
+  </figcaption>
+</figure></p>
+
+<p><figure>
+  <img src="the-prize-draft-images/moriumius-11.jpg" />
+  <figcaption>
+    アーティスト・イン・レジデンスを行っており、世界中からアーティストを招聘し、滞在しながら作品を作ってもらっている。こちらは使い終わった米袋に絵を描くアメリカ出身のエリースさん。
+  </figcaption>
+</figure></p>
+
+代表の油井さんによるモリウミアスのツアー動画はこちら。英語でやってもらった。
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aNJ_rjJMs6U" frameborder="0" allowfullscreen></iframe>
+
+ちなみに、モリウミアスは先ほど紹介した[キッズドアの子たち](http://japangiving.jp/p/5070)や、[熊本で被災した子たち](https://www.globalgiving.org/projects/kumamoto-to-moriumius/)も受け入れている。どちらも、クラウドファンディングに少額ながら寄付させてもらった。
