@@ -152,7 +152,7 @@
 たとえば、国際比較調査プログラムISSPが2006年に行った調査によると、「貧しい家庭の大学費用を政府が援助すべきか」という質問にたいし、アメリカを含むほとんどの国で賛成が反対を大幅に上回ったが、日本だけ一定数が反対した。
 
 <p><figure>
-  <img src="the-prize-draft-images/govt-responsibilities.png" />
+  <img src="the-prize-draft-images/govt-responsibilities.jpg" />
   <figcaption>
     出典: ISSP(2006)/中澤 渉 (2014)『<a href="https://www.amazon.co.jp/なぜ日本の公教育費は少ないのか-教育の公的役割を問いなおす-中澤-渉/dp/4326653884?tag=chibicode-22">なぜ日本の公教育費は少ないのか</a>』勁草書房:12
   </figcaption>
