@@ -12,7 +12,7 @@
 原発10キロ圏内にある福島県・浪江町を案内してくれた友人は、車を走らせながらそう言った。震災から5年半が経った今でも、津波の爪痕がまざまざと残る。すれ違うのは工事のトラックばかり。ぼくが訪れた2016年11月の時点では、いまだに居住禁止のゴーストタウンとなっている。
 
 <p><figure>
-  <img src="the-prize-draft-images/fukushima-namie-map.png" />
+  <img src="the-prize-draft-images/fukushima-namie-map.jpg" />
   <figcaption>画像ソース: <a href="http://www.town.namie.fukushima.jp/soshiki/2/namie-factsheet.html">浪江町</a> / <a href="http://www.pref.fukushima.lg.jp/site/portal/list271-840.html">福島県</a></figcaption>
 </figure></p>
 
