@@ -51,7 +51,7 @@
 
 <p><figure>
   <img src="the-prize-draft-images/denade.gif" />
-  <figcaption>「相双神旗ディネード」の<a href="https://www.youtube.com/watch?v=ooExRI4NSco">予告動画より</a>。<a href="images/denade-permission.png">転載の許可も頂いた</a>。</figcaption>
+  <figcaption>「相双神旗ディネード」の<a href="https://www.youtube.com/watch?v=ooExRI4NSco">予告動画より</a>。<a href="the-prize-draft-images/denade-permission.png">転載の許可も頂いた</a>。</figcaption>
 </figure></p>
 
 悪役は、住んでいた海や山を放射能で汚された動物の化身という設定だ。人間のせいで帰る場所が無くなったという点では、ディネードを観る子どもたちと悪役たちの境遇は変わらない。
