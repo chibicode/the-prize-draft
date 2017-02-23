@@ -2,8 +2,13 @@
 title: シリコンバレーのエンジニアが語る、誰にも悪気はなかった話
 cover_image: "http://chibicode.com/assets/images/the-prize/og-image.jpg"
 og_image: "http://chibicode.com/assets/images/the-prize/og-image.jpg"
-og_image_width: 2400
-og_image_height: 1260
+og_image_width: 1200
+og_image_height: 630
+# NEED THIS CSS:
+# a[href^='https://goo.gl/B7k68n'],
+# a[href^='https://chibicode.github.io/the-prize-research/'] {
+#   background-color: #ffc;
+# }
 ---
 
 > 貧困の連鎖を止めようとしたら、子どもの学力が下がりました。働き方から変えよう、地方から変えようとしたら、何も変わりませんでした。
