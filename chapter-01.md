@@ -234,9 +234,9 @@
 
 今回の記事では、「[The Prize](http://amzn.to/2idlf1u)」を引用しつつ、この話を深掘りしていきたい。
 
-引用については、文字数の都合上`blockquote`タグを使わず、[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)を作成し、そちらへのリンクを引用部分に貼ることで本文との[主従関係を示す](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)形を取った。もし段落に[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)へのリンク(背景が<span style="background-color: #ffc">黄色</span>)があればその段落の内容はほぼ全て引用で、他のページへのリンクしか無い場合、またはリンクが無い場合その段落は引用ではない、と考えてもらいたい。また、会話の部分は会話の前の段落に引用元へのリンクを貼っている。
+引用については、文字数の都合上`blockquote`タグを使わず、[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)を作成し、そちらへのリンクを引用部分に貼ることで本文との[主従関係を示す](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)形を取った。もし段落に[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)へのリンク(背景が<span style="background-color: #ffc">黄色</span>)があればその段落の内容は考察を除き全て引用で、他のページへのリンクしか無い場合、またはリンクが無い場合その段落は引用ではない、と考えてもらいたい。また、会話の部分は会話の前の段落に引用元へのリンクを貼っている。
 
-引用箇所は最小限にとどめ、原著よりもネット上の記事のほうが詳しければそちらの引用を優先している。詳しくは文化庁「著作権なるほど質問箱」の「[引用](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)」の定義を[参考に](https://twitter.com/chibicode/status/834506990726418432)。また、「引用ではなくパクリでは」と思われる方もいると思う。ぼくはそうではないと思うが、まずは原著を読んでから判断していただきたい。
+引用箇所は最小限にとどめ、原著よりもネット上の記事のほうが詳しければそちらの引用を優先している。詳しくは文化庁「著作権なるほど質問箱」の「[引用](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)」の定義を[参考に](https://twitter.com/chibicode/status/834506990726418432)。また、これを読んで「本の丸パクリでは」と思われる方もいると思うが、まずは原著を読んでから判断していただきたい。
 
 ### どうぞ、お楽しみください
 
