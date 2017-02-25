@@ -74,13 +74,17 @@
 
 ### 安定が大事
 
-最後にもう一つ。日本ではよく、フィンランドの教育が話題になる。[宿題やテストが少ないのに学力が世界トップクラス](http://www.mag2.com/p/news/159553/2)であることで有名だ。
+最後にもう一つ。日本ではよく、フィンランドの教育が話題になる。[宿題やテストが少ない](http://www.mag2.com/p/news/159553/2)のに、2000年代では[学力が世界トップクラス](http://www.businessinsider.com/why-finland-fell-in-the-pisa-rankings-2013-12)だったことで有名だ。
+
+特筆すべきは、フィンランドはもともと学力が高い国ではなかったということである。その証拠に、1970年の時点で、中等・高等教育を受けた大人は全体の[2割しかいなかった](https://books.google.com.br/books?id=LQZ6BgAAQBAJ&lpg=PA59&ots=ayKEc_aDc9&dq=finnish%20lessons%201970&pg=PA58#v=onepage&q=finnish%20lessons%201970&f=false)。
 
 そのフィンランドの教育学者・パシ・サールバーグ氏が著した本「[Finnish Lessons](https://www.amazon.co.jp/Finnish-Lessons-2-0-Educational-Finland-ebook/dp/B00SZ7L8M4?tag=chibicode-22)」によると、フィンランドの教育が成功した最も大きな理由は、すべての政党が40年近く、教育を政府の最重要課題に[指定したからだという](https://books.google.com/books?id=LQZ6BgAAQBAJ&lpg=PA21&vq=politics&pg=PA8#v=snippet&q=politics&f=false)。
 
-フィンランドでは、教育レベルが低迷していた1970年代から、20以上の政権が生まれ、約30人が教育大臣を[務めた](https://books.google.com/books?id=LQZ6BgAAQBAJ&lpg=PA21&vq=politics&pg=PA8#v=snippet&q=politics&f=false)。だが、全政権・全教育大臣が「公教育の質を向上させよう」と目線を合わせ、教育行政の方向性が安定していた。
+フィンランドでは、教育レベルが[低迷していた](https://books.google.com.br/books?id=LQZ6BgAAQBAJ&lpg=PA59&ots=ayKEc_aDc9&dq=finnish%20lessons%201970&pg=PA58#v=onepage&q=finnish%20lessons%201970&f=false)1970年代から、20以上の政権が生まれ、約30人が教育大臣を[務めた](https://books.google.com/books?id=LQZ6BgAAQBAJ&lpg=PA21&vq=politics&pg=PA8#v=snippet&q=politics&f=false)。だが、全政権・全教育大臣が「『公』教育の質を『底上げ』しよう」と目線を合わせ、教育行政の方向性が安定していた。「私立と競争させよう」とか「トップの生徒を伸ばそう」といった考えに、だれも浮気することはなかったのだ。
 
-教育を変えるには時間がかかるということを、フィンランドは政治と行政レベルで理解していたのだ。世論に揺さぶられて「ゆとり」と「詰め込み」を行ったり来たりし、英語教育やICT化で右往左往する日本の教育行政とは大違いである。
+教育を変えるには時間がかかるということを、フィンランドは政治と行政レベルで理解していた。世論に揺さぶられて「ゆとり」と「詰め込み」を行ったり来たりし、英語教育やICT化で右往左往する日本の教育行政とは大違いである。
+
+ちなみに、近ごろフィンランドは学力テストの点数が[下降気味](https://www.tes.com/news/school-news/breaking-news/timss-bad-news-finland-russia-and-kazakhstan-soar)だ。しかし、[ハフィントンポスト](http://www.huffingtonpost.jp/2015/04/06/finlands-schools-are-overhauling-the-way_n_7009152.html)によると、フィンランドは「数学や歴史といった個々の科目にかける時間を減らしていく。代わりに、広範囲の異なる分野にまたがったテーマを学ぶ」という教育方針に最近舵を切ったらしい。教育学者の福田誠治さん曰く、「[フィンランドはもう学力の『先』を行っている](https://www.amazon.co.jp/フィンランドはもう「学力」の先を行っている――人生につながるコンピテンス・ベースの教育-福田-誠治/dp/4750512176?tag=chibicode-22)」そうだ。
 
 ### 刺激的か、地に足がついているか
 
