@@ -47,7 +47,7 @@
 
 チャータースクールの良さは規制が緩いところだが、なんでも自由にさせておけば良いという話ではないのだ。
 
-余談だが、多くの識者は、トランプ政権下で新しく教育大臣になった[デボス氏](http://www.huffingtonpost.jp/2017/02/07/betsy-devos_n_14636686.html)に警鐘を鳴らしている。彼女はチャータースクール信者で、過剰とも言える[規制撤廃](http://www.politico.com/magazine/story/2017/01/what-new-orleans-can-teach-betsy-devos-about-charter-schools-214610)を支持しているからだ。
+余談だが、多くの識者は、トランプ政権下で新しくアメリカ教育長官になった[デボス氏](http://www.huffingtonpost.jp/2017/02/07/betsy-devos_n_14636686.html)に警鐘を鳴らしている。彼女はチャータースクール信者で、過剰とも言える[規制撤廃](http://www.politico.com/magazine/story/2017/01/what-new-orleans-can-teach-betsy-devos-about-charter-schools-214610)を支持しているからだ。
 
 ちなみに全米平均で見ると、チャータースクールのパフォーマンスは、公立校のそれとあまり[変わらない](https://goo.gl/B7k68n#vFjfcLdq)。
 
