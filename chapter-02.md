@@ -94,7 +94,7 @@
 
 そんなチャンに心を動かされたザッカーバーグは、子どもたちのために慈善活動をすることに乗り気になった。
 
-<div class="fb-post" data-href="https://www.facebook.com/4/posts/10100387011762121/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/4/posts/10100387011762121/" class="fb-xfbml-parse-ignore">(ザッカーバーグとチャンの結婚式の写真。)</blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/4/posts/10100387011762121/" data-show-text="true"><blockquote cite="https://www.facebook.com/4/posts/10100387011762121/" class="fb-xfbml-parse-ignore">(ザッカーバーグとチャンの結婚式の写真。)</blockquote></div>
 
 ただ、ザッカーバーグの動機は、チャンのように「子どもたちの可能性を広げたい」といった純粋なものではなかった。根っからの起業家の彼は、チャンの言葉を「仕組みの問題」として聞いていた。証拠に、ザッカーバーグはチャンとの共同インタビューで[こう語っている](https://goo.gl/B7k68n#UZwcT1mh)。
 
@@ -140,7 +140,7 @@
 
 二人の風雲児が出会ったのは2010年7月。アイダホ州のサンバレーで毎年開催され、超大物経営者・芸能人・政治家が集まる[アレン＆カンパニー・カンファレンス](https://en.wikipedia.org/wiki/Allen_%26_Company_Sun_Valley_Conference)での[出来事だった](https://goo.gl/B7k68n#eZQPzY9q)。
 
-<div class="fb-post" data-href="https://www.facebook.com/corybooker/photos/a.476052537227.282580.36872302227/476067977227/?type=3" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/corybooker/photos/a.476052537227.282580.36872302227/476067977227/?type=3" class="fb-xfbml-parse-ignore">(ブッカーとザッカーバーグの写真)</blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/corybooker/photos/a.476052537227.282580.36872302227/476067977227/?type=3" data-show-text="true"><blockquote cite="https://www.facebook.com/corybooker/photos/a.476052537227.282580.36872302227/476067977227/?type=3" class="fb-xfbml-parse-ignore">(ブッカーとザッカーバーグの写真)</blockquote></div>
 
 ザッカーバーグとブッカーはディナーのあと、二人で歩きながら[語った](https://goo.gl/B7k68n#eZQPzY9q)。
 
@@ -191,7 +191,7 @@
 
 これが、ザッカーバーグのヒーロー初体験のはじまりだった。
 
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200898172756391" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200898172756391" class="fb-xfbml-parse-ignore">(オプラ・ウィンフリー・ショーにて)</blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200898172756391" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200898172756391" class="fb-xfbml-parse-ignore">(オプラ・ウィンフリー・ショーにて)</blockquote></div>
 
 ここで良い知らせと、悪い知らせがある。
 

@@ -51,7 +51,7 @@
 
 そしてザッカーバーグがブッカーと寄付をテレビ番組で発表したとき、クリスティーもその場にいた。下の動画のサムネイルで、一番左に座っているのがクリスティーである。
 
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200898172756391" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200898172756391" class="fb-xfbml-parse-ignore">(オプラ・ウィンフリー・ショーにて)</blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/10200898172756391" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10200898172756391" class="fb-xfbml-parse-ignore">(オプラ・ウィンフリー・ショーにて)</blockquote></div>
 
 なぜ、クリスティーがザッカーバーグの寄付において、キーパーソンとなったのだろうか。
 
