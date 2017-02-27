@@ -40,6 +40,8 @@
 
 お礼: 記事の下書きを読んでくださったMari Sukegawaさん、Maiko Ishikawaさん、Kurumi Aibaさん、Susumu Uchidaさん、ありがとうございました。
 
+追記: [ツイッターやフェイスブックで当記事に寄せられたコメントはこちら](http://chibicode.com/the-prize-feedback/)。
+
 ぼくが以前書いた教育の記事はこちら (★は多く読まれた記事):
 
 - ★ [アメリカの学校現場でプログラミングを教える女性教員100人のプロフィール](http://chibicode.com/7-100-women-cs-teachers-america) / (2016年10月23日)
