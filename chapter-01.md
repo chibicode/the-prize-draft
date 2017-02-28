@@ -107,7 +107,7 @@
 
 ぼくは数年前にイースト・パロアルトの隣に住んでいたが、たまに行くイースト・パロアルトは「廃れているな」という印象だった。しかし、90年代や2000年代のイースト・パロアルトはもっと物騒だったらしい。
 
-ギャング抗争のせいで、イースト・パロアルトは[1992年に市内での殺人率が全米最高](http://articles.latimes.com/1993-01-05/local/me-833_1_east-palo-alto)を記録した。人口あたりの殺人発生率は[同時期の日本](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89)の「175倍」というとんでもない数字である。1992年といえば、シリコンバレー発祥のインテルが[世界最大の半導体企業になった年](http://www.intel.com/content/www/us/en/history/history-1992-annual-report.html)だ。
+ギャング抗争のせいで、イースト・パロアルトは[1992年に市内での殺人率が全米最高](http://articles.latimes.com/1993-01-05/local/me-833_1_east-palo-alto)を記録した。人口10万人あたりの殺人発生率は[同時期の日本](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89)の「175倍」というとんでもない数字である。1992年といえば、シリコンバレー発祥のインテルが[世界最大の半導体企業になった年](http://www.intel.com/content/www/us/en/history/history-1992-annual-report.html)だ。
 
 スタンフォード大学の目と鼻の先にありながら、イースト・パロアルトはまさに別世界だったのである。
 
