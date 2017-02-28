@@ -32,7 +32,7 @@ og_image_height: 630
 
 良い区切りだと思うので、しばらくのあいだ最後になるであろう、教育についての記事を書くことにしました。かなり長いのですが、読んでくださると嬉しいです。
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr"></p> <a href="https://twitter.com/chibicode/status/834212863661125632"></a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><a href="https://twitter.com/chibicode/status/834212863661125632"></a></blockquote>
 
 <div class="fb-post" data-href="https://www.facebook.com/shu/posts/10201008064663620" data-show-text="true"><blockquote cite="https://www.facebook.com/shu/posts/10201008064663620" class="fb-xfbml-parse-ignore"></blockquote></div>
 
