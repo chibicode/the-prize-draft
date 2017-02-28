@@ -42,7 +42,7 @@
 
 追記: [ツイッターやフェイスブックで当記事に寄せられたコメントはこちら](http://chibicode.com/the-prize-feedback/)。
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">「誰にも悪気はなかった話」に寄せられた感想をまとめました。「長い」が一番多いですが、記事を小分けにしなかったのは、流入が多いFBのシェア数を稼ぐため。「いいね」が多くつく可能性が高い退職エントリと一緒に投稿するという裏技を使いました<a href="https://t.co/Y4rAgBaKsU">https://t.co/Y4rAgBaKsU</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/836150670105407488">February 27, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-converstaion="none"><p lang="ja" dir="ltr">「誰にも悪気はなかった話」に寄せられた感想をまとめました。「長い」が一番多いですが、記事を小分けにしなかったのは、流入が多いFBのシェア数を稼ぐため。「いいね」が多くつく可能性が高い退職エントリと一緒に投稿するという裏技を使いました<a href="https://t.co/Y4rAgBaKsU">https://t.co/Y4rAgBaKsU</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/836150670105407488">February 27, 2017</a></blockquote>
 
 ぼくが以前書いた教育の記事はこちら (★は多く読まれた記事):
 
