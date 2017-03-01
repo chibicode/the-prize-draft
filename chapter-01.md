@@ -174,9 +174,9 @@
 
 90年代、あまりの治安の悪さに黒人の多くはここを脱出したが、代わりにメキシコからの移民がイースト・パロアルトに住み着いた。現在は[市の3人に2人](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)がヒスパニック系アメリカ人である。
 
-しかし、住民が貧しいことに変わりはない。2000年代前半から後半にかけての住民所得はシリコンバレーの[平均](http://www.bayareacensus.ca.gov/counties/SantaClaraCounty.htm)の[約半分](https://www.census.gov/quickfacts/table/RHI125215/0620956)、貧困率はシリコンバレーの[平均](http://www.bayareacensus.ca.gov/counties/SantaClaraCounty.htm)の[約2倍](http://www.bayareacensus.ca.gov/cities/EastPaloAlto.htm)で推移している。また2010年の時点で、失業率もシリコンバレーの[約2倍](http://www.paloaltoonline.com/news/2012/08/31/east-palo-altos-health-challenges-greater-than-countys)、住民の平均寿命はシリコンバレーと比べ[13年も短い](http://www.paloaltoonline.com/news/2012/08/31/east-palo-altos-health-challenges-greater-than-countys)。
+しかし、住民が貧しいことに変わりはない。2000年代前半から後半にかけてのイースト・パロアルトの住民所得はシリコンバレーの[平均](http://www.bayareacensus.ca.gov/counties/SantaClaraCounty.htm)の[約半分](https://www.census.gov/quickfacts/table/RHI125215/0620956)、貧困率はシリコンバレーの[平均](http://www.bayareacensus.ca.gov/counties/SantaClaraCounty.htm)の[約2倍](http://www.bayareacensus.ca.gov/cities/EastPaloAlto.htm)で推移している。また2010年の時点で、失業率もシリコンバレーの[約2倍](http://www.paloaltoonline.com/news/2012/08/31/east-palo-altos-health-challenges-greater-than-countys)、住民の平均寿命はシリコンバレーと比べ[13年も短い](http://www.paloaltoonline.com/news/2012/08/31/east-palo-altos-health-challenges-greater-than-countys)。
 
-豊かなシリコンバレーと比べるのは酷かもしれないが、物価は[全米最高レベル](http://www.businessinsider.com/silicon-valley-unaffordable-even-for-engineers-2015-5)のシリコンバレーの影響を受けるため、生活水準は低いままだ。
+豊かなシリコンバレーと比べるのは酷かもしれないが、[全米最高レベル](http://www.businessinsider.com/silicon-valley-unaffordable-even-for-engineers-2015-5)のシリコンバレーの物価の高さは、イースト・パロアルトの物価にも影響する。ゆえに、生活が苦しい住民は多い。
 
 そんなイースト・パロアルトに2012年、変化が訪れた。
 
