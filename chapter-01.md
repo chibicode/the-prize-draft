@@ -111,7 +111,7 @@
 
 スタンフォード大学の目と鼻の先にありながら、イースト・パロアルトはまさに別世界だったのである。
 
-2000年代に入ると、イーストパロアルトの治安は改善し、殺人発生率は90年代の[1割程度](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)になった。しかし、シリコンバレーの[他の地域](http://www.city-data.com/crime/crime-Santa-Clara-California.html)と比べると、暴力犯罪の発生率は[約5倍](http://www.city-data.com/crime/crime-East-Palo-Alto-California.html)とまだまだ悪かった。
+2000年代に入ると、イーストパロアルトの治安は改善し、殺人発生率は90年代の[1割程度](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)になった。しかし、シリコンバレーの[他の地域](http://www.city-data.com/crime/crime-Santa-Clara-California.html)と比べると、暴力犯罪の発生率は[約5倍](http://www.city-data.com/crime/crime-East-Palo-Alto-California.html)と、治安はいまだに悪かった。
 
 <p><figure>
   <a href="http://amzn.to/2iTMQUx"><img src="the-prize-draft-images/the-facebook-effect.jpg" /></a>
