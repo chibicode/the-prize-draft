@@ -52,9 +52,11 @@
   <figcaption><a href="https://goo.gl/maps/j365KvLQqQL2">Google Maps</a></figcaption>
 </figure></p>
 
-ニューアークはニュージャージー州最大の都市で、ニューヨーク市から車で30分ほどのところにある。ザッカーバーグの[出身地](https://en.wikipedia.org/wiki/Mark_Zuckerberg)・ドブスフェリーにも、車で45分ほどと近い。
+ニューアークはニュージャージー州最大の都市で、ニューヨーク市マンハッタンから車で30分ほどのところにある。ザッカーバーグの[出身地](https://en.wikipedia.org/wiki/Mark_Zuckerberg)・ドブスフェリーにも、車で45分ほどの距離だ。
 
-ニューアークは、全米を代表する貧困地区として悪名高い。イースト・パロアルトと同じく、[以前は](http://www.pbs.org/pov/revolution67/background/)ニューアークの都市全体が「赤の地域」に指定されていて、長年の経済の停滞と、ギャングによる犯罪が市民を苦しめた。もちろん教育レベルも低く、貧困の連鎖が問題になっていた。
+そんなニューアークは、全米を代表する貧困地区として悪名高い。2010年には、住民の「[5人に2人](http://www.nj.com/news/index.ssf/2011/12/newarks_child_poverty_rate_spi.html)」が政府が定めた貧困ライン以下で暮らしていた。同時期の全米平均の貧困率「[6人に1人](https://www.census.gov/prod/2012pubs/acsbr11-01.pdf)」より遥かに悪い数字だ。
+
+イースト・パロアルトと同じく、[以前のニューアークは](http://www.pbs.org/pov/revolution67/background/)都市全体が「赤の地域」に指定されていた。それが長年の経済の停滞を招き、ギャングによる犯罪が市民を苦しめていた。もちろん教育レベルも低く、貧困の連鎖が問題になっている。
 
 <p><figure>
   <img src="the-prize-draft-images/newark-alley.jpg" />

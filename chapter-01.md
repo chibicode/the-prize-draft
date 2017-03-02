@@ -111,7 +111,7 @@
 
 スタンフォード大学の目と鼻の先にありながら、イースト・パロアルトはまさに別世界だったのである。
 
-2000年代に入ると、イーストパロアルトの治安はましになり、殺人発生率は90年代の[1割程度](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)になった。しかし、シリコンバレーの他の地域と比べるとまだまだ悪かった。
+2000年代に入ると、イーストパロアルトの治安は改善し、殺人発生率は90年代の[1割程度](https://en.wikipedia.org/wiki/East_Palo_Alto,_California)になった。しかし、シリコンバレーの[他の地域](http://www.city-data.com/crime/crime-Santa-Clara-California.html)と比べると、暴力犯罪の発生率は[約5倍](http://www.city-data.com/crime/crime-East-Palo-Alto-California.html)とまだまだ悪かった。
 
 <p><figure>
   <a href="http://amzn.to/2iTMQUx"><img src="the-prize-draft-images/the-facebook-effect.jpg" /></a>
@@ -168,7 +168,7 @@
 
 男性は、ギャングに入団してコカインやヘロインを売れば一日何百ドルも稼げる。廃墟になった建物はアジトとして利用され、ギャングの銃撃戦で治安が悪化し、「赤の地域」は「血塗られた地域」になった。1984年から1994年にかけて、[14歳から24歳の黒人男性が殺人で死ぬ確率は全米で倍増した](http://scholar.harvard.edu/files/fryer/files/fhlm_crack_cocaine_0.pdf)。
 
-### マーク・ザッカーバーグ
+### イースト・パロアルトの最近
 
 先ほどの話に戻ると、シリコンバレーにあるイースト・パロアルトも典型的な「赤の地域」だった。ゆえに、町はいつまでたっても豊かにならなかったのだ。
 
@@ -177,6 +177,8 @@
 しかし、住民が貧しいことに変わりはない。2000年代前半から後半にかけてのイースト・パロアルトの住民所得はシリコンバレーの[平均](http://www.bayareacensus.ca.gov/counties/SantaClaraCounty.htm)の[約半分](https://www.census.gov/quickfacts/table/RHI125215/0620956)、貧困率はシリコンバレーの[平均](http://www.bayareacensus.ca.gov/counties/SantaClaraCounty.htm)の[約2倍](http://www.bayareacensus.ca.gov/cities/EastPaloAlto.htm)で推移している。また2010年の時点で、失業率もシリコンバレーの[約2倍](http://www.paloaltoonline.com/news/2012/08/31/east-palo-altos-health-challenges-greater-than-countys)、住民の平均寿命はシリコンバレーと比べ[13年も短い](http://www.paloaltoonline.com/news/2012/08/31/east-palo-altos-health-challenges-greater-than-countys)。
 
 豊かなシリコンバレーと比べるのは酷かもしれないが、[全米最高レベル](http://www.businessinsider.com/silicon-valley-unaffordable-even-for-engineers-2015-5)のシリコンバレーの物価は、イースト・パロアルトの物価にも影響する。ゆえに、生活が苦しい住民は多い。
+
+### マーク・ザッカーバーグ
 
 そんなイースト・パロアルトに2012年、変化が訪れた。
 
