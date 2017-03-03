@@ -155,7 +155,7 @@ Ozobotが動いている様子はこちら。
 <p><figure>
   <img src="the-prize-draft-images/moriumius-8.jpg" />
   <figcaption>
-    廊下。奥が寝室になっている。木造建築を活かしたデザインは<a href="https://ja.wikipedia.org/wiki/%E9%9A%88%E7%A0%94%E5%90%BE">「和の大家」とも称される</a>建築家、隈研吾氏を中心に世界中の建築学生と考えたもの。
+    廊下。奥が寝室になっている。木造建築を活かしたデザインは<a href="https://ja.wikipedia.org/wiki/%E9%9A%88%E7%A0%94%E5%90%BE">「和の大家」とも称される</a>建築家、隈研吾氏を中心に、世界中の建築学生と一緒に考えられた。
   </figcaption>
 </figure></p>
 
