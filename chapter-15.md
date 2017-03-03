@@ -26,11 +26,21 @@
 
 長文を読んでくださり、ありがとうございました。
 
-### あとがきなど
+### お礼
 
 「[The Prize](http://amzn.to/2idlf1u)」著者のDale Rusakoffさんに感謝である。この記事に深みがあるとしたら、それはすべて彼女の取材力の賜物だ。ぼくがやったことは、多くの日本人が面白いと思うであろう部分以外を削ったこと、その結果として本とは違う構成にしたこと、多くの日本の人には事前知識が無いであろうことを説明したこと、そして比較できる日本の事例を用意したことくらいである。
 
+アメリカの名著の多くは日本語には訳されない。日本人の多くが前提知識を持たない場合、専門書でもないかぎり直訳しても売れないからだ。アメリカの教育分野の本はその典型である。
+
+「[The Prize](http://amzn.to/2idlf1u)」のように、内容の一部を削り、前提知識の説明を加えれば、日本の読者にとっても学びの多い本は多い。しかし、いまの「直訳型」の翻訳出版のモデルではそういった本に対応できない。それを苦々しく思ったからこそ、6万字も費やしてこの記事を書かせてもらった。
+
+そして、当記事の下書きを読んでくださったMari Sukegawaさん、Maiko Ishikawaさん、Kurumi Aibaさん、Susumu Uchidaさん、ありがとうございました。
+
+### 連絡先
+
 [ぼくの連絡先はこちら](http://chibicode.com/contact-jp)。
+
+### ソーシャルメディア
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">【ご報告/ブログ更新のお知らせ】4年と3ヶ月働いたシリコンバレーの教育ベンチャー・<a href="https://twitter.com/EdSurge">@EdSurge</a>社を退社しました。良い区切りなので記事を書きました。よければどうぞ!<br>↓<br>「シリコンバレーのエンジニアが語る、誰にも悪気はなかった話」<a href="https://t.co/d4gECwgzeg">https://t.co/d4gECwgzeg</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/834212863661125632">February 22, 2017</a></blockquote>
 
@@ -38,9 +48,7 @@
 
 2017&#x5e74;1&#x6708;31&#x65e5;&#x3092;&#x3082;&#x3061;&#x307e;&#x3057;&#x3066;&#x3001;4&#x5e74;&#x3068;3&#x30f6;&#x6708;&#x52e4;&#x3081;&#x3055;&#x305b;&#x3066;&#x3044;&#x305f;&#x3060;&#x3044;&#x305f;&#x30b7;&#x30ea;&#x30b3;&#x30f3;&#x30d0;&#x30ec;&#x30fc;&#x306e;&#x6559;&#x80b2;&#x30d9;&#x30f3;&#x30c1;&#x30e3;&#x30fc;&#x30fb;EdSurge&#x793e;&#x3092;&#x9000;&#x793e;&#x3057;&#x307e;&#x3057;&#x305f;&#x3002;&#x307e;&#x3060;&#x307e;&#x3060;&#x3084;&#x308b;&#x3053;&#x3068;&#x306f;&#x591a;&#x304b;&#x3063;&#x305f;&#x306e;&#x3067;&#x3059;&#x304c;&#x3001;&#x307c;&#x304f;&#x3082;29&#x6b73;&#x306b;&#x306a;...</p>Posted by <a href="https://www.facebook.com/shu">Shu Uesugi</a> on&nbsp;<a href="https://www.facebook.com/shu/posts/10201008064663620">Tuesday, February 21, 2017</a></blockquote></div>
 
-お礼: 記事の下書きを読んでくださったMari Sukegawaさん、Maiko Ishikawaさん、Kurumi Aibaさん、Susumu Uchidaさん、ありがとうございました。
-
-追記: [ツイッターやフェイスブックで当記事に寄せられたコメントはこちら](http://chibicode.com/the-prize-feedback/)。
+### 以前書いた教育の記事
 
 ぼくが以前書いた教育の記事はこちら (★は多く読まれた記事):
 
@@ -56,3 +64,7 @@
 - ★ [アメリカの教科書はなぜ重たいのか](http://chibicode.com/3-troubled-crusade-1-5/) / (2015年2月2日)
 - [教育とカネの話](http://chibicode.com/2-troubled-crusade-1/) / (2015年1月23日)
 - ★ [大阪府立天王寺高等学校での講演「アメリカの大学について」](http://chibicode.com/osaka/) / (2013年7月19日)
+
+### 追記: 当記事への感想まとめ
+
+[ツイッターやフェイスブックで当記事に寄せられたコメントのまとめはこちら](http://chibicode.com/the-prize-feedback/)。
