@@ -213,3 +213,5 @@ Ozobotが動いている様子はこちら。
 <p><iframe width="1280" height="720" src="https://www.youtube.com/embed/aNJ_rjJMs6U" frameborder="0" allowfullscreen></iframe></p>
 
 ちなみに、モリウミアスは先ほど紹介した[キッズドアの子たち](http://japangiving.jp/p/5070)や、[熊本で被災した子たち](https://www.globalgiving.org/projects/kumamoto-to-moriumius/)も受け入れている。どちらも、クラウドファンディングに少額ながら寄付させてもらった。
+
+[モリウミアスのウェブサイトはこちら。](http://moriumius.jp/)
