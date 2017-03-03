@@ -49,7 +49,7 @@
 
 余談だが、多くの識者は、トランプ政権下で新しくアメリカ教育長官になった[デボス氏](http://www.huffingtonpost.jp/2017/02/07/betsy-devos_n_14636686.html)に警鐘を鳴らしている。彼女はチャータースクール信者で、過剰とも言える[規制撤廃](http://www.politico.com/magazine/story/2017/01/what-new-orleans-can-teach-betsy-devos-about-charter-schools-214610)を支持しているからだ。
 
-ちなみに全米平均で見ると、チャータースクールのパフォーマンスは、公立校のそれとあまり[変わらない](https://goo.gl/B7k68n#vFjfcLdq)。
+ちなみに全米平均で見ると、チャータースクールのパフォーマンスは、公立校のそれとあまり変わらない。スタンフォード大学が2013年に公開した[全国調査](http://credo.stanford.edu/documents/NCSS%202013%20Executive%20Summary.pdf)によれば、チャータースクールに一年間通った生徒は、普通の公立校に一年間通った生徒に比べ、読解力は「一週間で学ぶ量ほど、つまり少しの増加」が見られ、数学力においては差異がなかった。
 
 ### 日本における学校選択制
 
