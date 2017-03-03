@@ -66,7 +66,7 @@
 
 <p><figure>
   <img src="the-prize-draft-images/denade.jpg" />
-  <figcaption>ぼくとディネード。</figcaption>
+  <figcaption>ぼくとディネード。よく聞かれますが、顔のアザは生まれつきです。</figcaption>
 </figure></p>
 
 子どもにとって、ヒーローには説得力がある。
