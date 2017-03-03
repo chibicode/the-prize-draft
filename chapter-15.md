@@ -34,7 +34,7 @@
 
 「[The Prize](http://amzn.to/2idlf1u)」のように、内容の一部を削り、前提知識の説明を加えれば、日本の読者にとっても学びの多い本は多い。しかし、いまの「直訳型」の翻訳出版のモデルではそういった本に対応できない。それを苦々しく思ったからこそ、6万字も費やしてこの記事を書かせてもらった。
 
-そして、当記事の下書きを読んでくださったMari Sukegawaさん、Maiko Ishikawaさん、Kurumi Aibaさん、Susumu Uchidaさん、ありがとうございました。
+最後に、当記事の下書きを読んでくださったMari Sukegawaさん、Maiko Ishikawaさん、Kurumi Aibaさん、Susumu Uchidaさん、ありがとうございました。
 
 ### 連絡先
 
