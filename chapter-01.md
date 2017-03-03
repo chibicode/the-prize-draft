@@ -115,12 +115,12 @@
 
 <p><figure>
   <a href="http://amzn.to/2iTMQUx"><img src="the-prize-draft-images/the-facebook-effect.jpg" /></a>
-  <figcaption>デビッド・カークパトリック(著)、小林弘人(解説)、滑川海彦 (翻訳)、高橋信夫(翻訳)。日経BP社出版(2011/1/13)。 (<a href="http://amzn.to/2iTMQUx">Amazonリンク</a>)</figcaption>
+  <figcaption>ザッカーバーグがイースト・パロアルトで襲われたエピソードが書かれていた本。デビッド・カークパトリック(著)、小林弘人(解説)、滑川海彦 (翻訳)、高橋信夫(翻訳)。日経BP社出版(2011/1/13)。 (<a href="http://amzn.to/2iTMQUx">Amazonリンク</a>)</figcaption>
 </figure></p>
 
 2005年の春のこと。フェイスブックの創業者、84年生まれ・21歳のマーク・ザッカーバーグは運転中、イースト・パロアルトのガソリンスタンドに寄った。セルフサービスで給油していると、酔っ払いがやってきて彼に[銃を突きつけた](https://goo.gl/RLu2aP)。ザッカーバーグはとっさの判断で車に飛び乗り、そのまま運転して難を逃れたという。
 
-ザッカーバーグ率いるフェイスブックは当時、ベンチャーキャピタルから最初の投資を受けたばかりだった。投資家は、イースト・パロアルトの治安がリスクになるとは夢にも思わなかっただろう。
+ザッカーバーグ率いるフェイスブックは当時、ベンチャー投資家たちから最初の投資を受けたばかりだった。投資家たちも、イースト・パロアルトの治安がリスクになるとは夢にも思わなかっただろう。
 
 ### 政府主導の差別政策
 
@@ -198,7 +198,7 @@
 
 フェイスブック社がイースト・パロアルトにやってきた2年後、ザッカーバーグは[1億2000万ドル](http://www.mercurynews.com/2014/05/29/mark-zuckerberg-and-dr-priscilla-chan-why-were-committing-120-million-to-bay-area-schools/)をイースト・パロアルトを含む近郊の貧しい学区に寄付することを決定。[寄付の一部](https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/)は、イースト・パロアルトの学生たちにタブレット端末を配るために使われた。
 
-(注: 1ドル=約100円として考えてほしい。1億ドル=約100億円。)
+(注: 1ドル=約100円として考えてほしい。1億2000万ドル=約120億円。)
 
 イースト・パロアルトに新しいクリニックが出来た際、ザッカーバーグは妻のプリシラと5万ドルを[寄付](http://www.paloaltoonline.com/news/2014/01/23/zuckerberg-wife-give-5-million-to-build-east-palo-alto-health-center)した。二人はさらに、イースト・パロアルトに低所得者層の児童向けの学校を2016年に[設立](http://forbesjapan.com/articles/detail/10743)。3歳から入学でき、学費は無料で保育・医療サービスも提供する。
 
@@ -240,9 +240,11 @@
 
 今回の記事では、「[The Prize](http://amzn.to/2idlf1u)」を引用しつつ、この話を深掘りしていきたい。
 
-### 引用について
+### 引用についての注意事項
 
-当記事では引用した分量が多いため`blockquote`タグを使わず、[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)を作成し、そちらへのリンクを引用部分に貼ることで本文との[主従関係を示す](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)形を取った。「もし段落に[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)へのリンク(背景が<span style="background-color: #ffc">黄色</span>)があれば、その段落にある事実は全て引用。他のページへのリンクしか無い場合、またはリンクが無い場合その段落は引用ではない」と考えてもらいたい。また、会話の部分は会話の前の段落に引用元へのリンクを貼っている。
+(この部分は、物語と関係ないため読み飛ばしても構わない)
+
+当記事では引用した分量が多いため`<blockquote>`タグを使わず、[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)を作成し、そちらへのリンクを引用部分に貼ることで本文との[主従関係を示す](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)形を取った。「もし段落に[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)へのリンク(背景が<span style="background-color: #ffc">黄色</span>)があれば、その段落にある事実は全て引用。他のページへのリンクしか無い場合、またはリンクが無い場合その段落は引用ではない」と考えてもらいたい。また、会話の部分は会話の前の段落に引用元へのリンクを貼っている。
 
 引用箇所は最小限にとどめ、原著よりもネット上の記事のほうが詳しければそちらの引用を優先している。詳しくは文化庁「著作権なるほど質問箱」の「[引用](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)」の定義を[参考に](https://twitter.com/chibicode/status/834506990726418432)。
 
