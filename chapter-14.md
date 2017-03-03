@@ -162,7 +162,7 @@ Ozobotが動いている様子はこちら。
 <p><figure>
   <img src="the-prize-draft-images/moriumius-7.jpg" />
   <figcaption>
-    食堂。
+    食堂。もともとは職員室だった。
   </figcaption>
 </figure></p>
 
@@ -208,7 +208,7 @@ Ozobotが動いている様子はこちら。
   </figcaption>
 </figure></p>
 
-代表の油井さんによるモリウミアスのツアー動画はこちら。英語でやってもらった。
+代表の油井さんによるモリウミアスのツアー動画(英語)はこちら。
 
 <p><iframe width="1280" height="720" src="https://www.youtube.com/embed/aNJ_rjJMs6U" frameborder="0" allowfullscreen></iframe></p>
 
