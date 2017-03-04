@@ -242,7 +242,7 @@
 
 ### 引用についての注意事項
 
-(この部分は、物語と関係ないため読み飛ばしても構わない)
+この部分は、物語と関係ないため読み飛ばしても構わない。
 
 当記事では引用した分量が多いため`<blockquote>`タグを使わず、[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)を作成し、そちらへのリンクを引用部分に貼ることで本文との[主従関係を示す](http://www.bunka.go.jp/chosakuken/naruhodo/ref.asp)形を取った。「もし段落に[専用の脚注ページ](https://chibicode.github.io/the-prize-research/)へのリンク(背景が<span style="background-color: #ffc">黄色</span>)があれば、その段落にある事実は全て引用。他のページへのリンクしか無い場合、またはリンクが無い場合その段落は引用ではない」と考えてもらいたい。また、会話の部分は会話の前の段落に引用元へのリンクを貼っている。
 
