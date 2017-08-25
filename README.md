@@ -1,6 +1,8 @@
 # [シリコンバレーのエンジニアが語る、誰にも悪気はなかった話](http://chibicode.com/the-prize)の更新履歴
 
-それぞれのリンクで赤が削除した部分、緑が追加した部分です。リンク先で[このアイコン](https://raw.githubusercontent.com/chibicode/the-prize-draft/master/before.jpg)をクリックすると、[変更が見やすくなる](https://raw.githubusercontent.com/chibicode/the-prize-draft/master/after.jpg)かもしれません。
+それぞれのリンクで赤が削除した部分、緑が追加した部分です。一度にたくさん削除されて、まったく同じ文章がたくさん追加されている場合は、ファイル名を変更した時です。
+
+リンク先で[このアイコン](https://raw.githubusercontent.com/chibicode/the-prize-draft/master/before.jpg)をクリックすると、[変更が見やすくなる](https://raw.githubusercontent.com/chibicode/the-prize-draft/master/after.jpg)かもしれません。
 
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/188e2917622344a7df951e573c5fb22443454b3d)
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/1315a63a91c79039cf67899852ed6514f4550b21)
