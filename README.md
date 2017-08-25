@@ -1,7 +1,5 @@
 # [シリコンバレーのエンジニアが語る、誰にも悪気はなかった話](http://chibicode.com/the-prize)の更新履歴
 
-1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/0eab9490ce386c1c44ae91e958031b5d85831bc8)
-1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/89ddbca494f9334d226054f56952a5458758aa8b)
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/188e2917622344a7df951e573c5fb22443454b3d)
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/1315a63a91c79039cf67899852ed6514f4550b21)
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/d5d448e9e6d1bdea8f2f24e9f836969e88d0fbe2)
