@@ -1,5 +1,7 @@
 # [シリコンバレーのエンジニアが語る、誰にも悪気はなかった話](http://chibicode.com/the-prize)の更新履歴
 
+それぞれのリンクで赤が削除した部分、緑が追加した部分です。リンク先で[このアイコン](before.jpg)をクリックすると、[変更が見やすくなる](after.jpg)かもしれません。
+
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/188e2917622344a7df951e573c5fb22443454b3d)
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/1315a63a91c79039cf67899852ed6514f4550b21)
 1. [📝 Changes](https://github.com/chibicode/the-prize-draft/commit/d5d448e9e6d1bdea8f2f24e9f836969e88d0fbe2)
